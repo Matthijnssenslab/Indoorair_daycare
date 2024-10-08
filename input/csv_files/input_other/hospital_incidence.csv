@@ -1,0 +1,2161 @@
+pathogen,date,n_positive
+SARS-CoV-2,2021-11-14,21
+SARS-CoV-2,2021-11-21,13
+SARS-CoV-2,2021-11-28,16
+SARS-CoV-2,2021-12-05,35
+SARS-CoV-2,2021-12-12,32
+SARS-CoV-2,2021-12-19,18
+SARS-CoV-2,2021-12-26,18
+SARS-CoV-2,2022-01-02,14
+SARS-CoV-2,2022-01-09,15
+SARS-CoV-2,2022-01-16,22
+SARS-CoV-2,2022-01-23,17
+SARS-CoV-2,2022-01-30,17
+SARS-CoV-2,2022-02-06,18
+SARS-CoV-2,2022-02-13,12
+SARS-CoV-2,2022-02-20,14
+SARS-CoV-2,2022-02-27,8
+SARS-CoV-2,2022-03-06,13
+SARS-CoV-2,2022-03-13,23
+SARS-CoV-2,2022-03-20,21
+SARS-CoV-2,2022-03-27,15
+SARS-CoV-2,2022-04-03,14
+SARS-CoV-2,2022-04-10,14
+SARS-CoV-2,2022-04-17,16
+SARS-CoV-2,2022-04-24,17
+SARS-CoV-2,2022-05-01,13
+SARS-CoV-2,2022-05-08,21
+SARS-CoV-2,2022-05-15,14
+SARS-CoV-2,2022-05-22,14
+SARS-CoV-2,2022-05-29,8
+SARS-CoV-2,2022-06-05,4
+SARS-CoV-2,2022-06-12,8
+SARS-CoV-2,2022-06-19,7
+SARS-CoV-2,2022-06-26,4
+SARS-CoV-2,2022-07-03,8
+SARS-CoV-2,2022-07-10,11
+SARS-CoV-2,2022-07-17,6
+SARS-CoV-2,2022-07-24,7
+SARS-CoV-2,2022-07-31,10
+SARS-CoV-2,2022-08-07,13
+SARS-CoV-2,2022-08-14,2
+SARS-CoV-2,2022-08-21,6
+SARS-CoV-2,2022-08-28,4
+SARS-CoV-2,2022-09-04,7
+SARS-CoV-2,2022-09-11,7
+SARS-CoV-2,2022-09-18,2
+SARS-CoV-2,2022-09-25,4
+SARS-CoV-2,2022-10-02,4
+SARS-CoV-2,2022-10-09,6
+SARS-CoV-2,2022-10-16,6
+SARS-CoV-2,2022-10-23,4
+SARS-CoV-2,2022-10-30,2
+SARS-CoV-2,2022-11-06,6
+SARS-CoV-2,2022-11-13,8
+SARS-CoV-2,2022-11-20,6
+SARS-CoV-2,2022-11-27,4
+SARS-CoV-2,2022-12-04,4
+SARS-CoV-2,2022-12-11,0
+SARS-CoV-2,2022-12-18,8
+SARS-CoV-2,2022-12-25,12
+SARS-CoV-2,2023-01-01,9
+SARS-CoV-2,2023-01-08,6
+SARS-CoV-2,2023-01-15,4
+SARS-CoV-2,2023-01-22,3
+SARS-CoV-2,2023-01-29,6
+SARS-CoV-2,2023-02-05,2
+SARS-CoV-2,2023-02-12,4
+SARS-CoV-2,2023-02-19,8
+SARS-CoV-2,2023-02-26,8
+SARS-CoV-2,2023-03-05,9
+SARS-CoV-2,2023-03-12,17
+SARS-CoV-2,2023-03-19,12
+SARS-CoV-2,2023-03-26,12
+SARS-CoV-2,2023-04-02,9
+SARS-CoV-2,2023-04-09,2
+SARS-CoV-2,2023-04-16,2
+SARS-CoV-2,2023-04-23,8
+SARS-CoV-2,2023-04-30,9
+SARS-CoV-2,2023-05-07,3
+SARS-CoV-2,2023-05-14,5
+SARS-CoV-2,2023-05-21,3
+SARS-CoV-2,2023-05-28,0
+SARS-CoV-2,2023-06-04,5
+SARS-CoV-2,2023-06-11,3
+SARS-CoV-2,2023-06-18,3
+SARS-CoV-2,2023-06-25,1
+SARS-CoV-2,2023-07-02,3
+SARS-CoV-2,2023-07-09,2
+SARS-CoV-2,2023-07-16,0
+SARS-CoV-2,2023-07-23,0
+SARS-CoV-2,2023-07-30,1
+human enterovirus (incl. rhinovirus),2021-11-14,10
+human enterovirus (incl. rhinovirus),2021-11-21,16
+human enterovirus (incl. rhinovirus),2021-11-28,15
+human enterovirus (incl. rhinovirus),2021-12-05,16
+human enterovirus (incl. rhinovirus),2021-12-12,12
+human enterovirus (incl. rhinovirus),2021-12-19,7
+human enterovirus (incl. rhinovirus),2021-12-26,15
+human enterovirus (incl. rhinovirus),2022-01-02,9
+human enterovirus (incl. rhinovirus),2022-01-09,12
+human enterovirus (incl. rhinovirus),2022-01-16,7
+human enterovirus (incl. rhinovirus),2022-01-23,4
+human enterovirus (incl. rhinovirus),2022-01-30,12
+human enterovirus (incl. rhinovirus),2022-02-06,9
+human enterovirus (incl. rhinovirus),2022-02-13,13
+human enterovirus (incl. rhinovirus),2022-02-20,13
+human enterovirus (incl. rhinovirus),2022-02-27,7
+human enterovirus (incl. rhinovirus),2022-03-06,7
+human enterovirus (incl. rhinovirus),2022-03-13,11
+human enterovirus (incl. rhinovirus),2022-03-20,8
+human enterovirus (incl. rhinovirus),2022-03-27,13
+human enterovirus (incl. rhinovirus),2022-04-03,8
+human enterovirus (incl. rhinovirus),2022-04-10,6
+human enterovirus (incl. rhinovirus),2022-04-17,4
+human enterovirus (incl. rhinovirus),2022-04-24,2
+human enterovirus (incl. rhinovirus),2022-05-01,10
+human enterovirus (incl. rhinovirus),2022-05-08,8
+human enterovirus (incl. rhinovirus),2022-05-15,11
+human enterovirus (incl. rhinovirus),2022-05-22,11
+human enterovirus (incl. rhinovirus),2022-05-29,14
+human enterovirus (incl. rhinovirus),2022-06-05,12
+human enterovirus (incl. rhinovirus),2022-06-12,9
+human enterovirus (incl. rhinovirus),2022-06-19,16
+human enterovirus (incl. rhinovirus),2022-06-26,12
+human enterovirus (incl. rhinovirus),2022-07-03,15
+human enterovirus (incl. rhinovirus),2022-07-10,14
+human enterovirus (incl. rhinovirus),2022-07-17,8
+human enterovirus (incl. rhinovirus),2022-07-24,5
+human enterovirus (incl. rhinovirus),2022-07-31,3
+human enterovirus (incl. rhinovirus),2022-08-07,2
+human enterovirus (incl. rhinovirus),2022-08-14,1
+human enterovirus (incl. rhinovirus),2022-08-21,5
+human enterovirus (incl. rhinovirus),2022-08-28,3
+human enterovirus (incl. rhinovirus),2022-09-04,1
+human enterovirus (incl. rhinovirus),2022-09-11,12
+human enterovirus (incl. rhinovirus),2022-09-18,15
+human enterovirus (incl. rhinovirus),2022-09-25,12
+human enterovirus (incl. rhinovirus),2022-10-02,19
+human enterovirus (incl. rhinovirus),2022-10-09,13
+human enterovirus (incl. rhinovirus),2022-10-16,23
+human enterovirus (incl. rhinovirus),2022-10-23,10
+human enterovirus (incl. rhinovirus),2022-10-30,16
+human enterovirus (incl. rhinovirus),2022-11-06,11
+human enterovirus (incl. rhinovirus),2022-11-13,18
+human enterovirus (incl. rhinovirus),2022-11-20,20
+human enterovirus (incl. rhinovirus),2022-11-27,12
+human enterovirus (incl. rhinovirus),2022-12-04,19
+human enterovirus (incl. rhinovirus),2022-12-11,19
+human enterovirus (incl. rhinovirus),2022-12-18,13
+human enterovirus (incl. rhinovirus),2022-12-25,12
+human enterovirus (incl. rhinovirus),2023-01-01,12
+human enterovirus (incl. rhinovirus),2023-01-08,4
+human enterovirus (incl. rhinovirus),2023-01-15,9
+human enterovirus (incl. rhinovirus),2023-01-22,10
+human enterovirus (incl. rhinovirus),2023-01-29,14
+human enterovirus (incl. rhinovirus),2023-02-05,15
+human enterovirus (incl. rhinovirus),2023-02-12,13
+human enterovirus (incl. rhinovirus),2023-02-19,15
+human enterovirus (incl. rhinovirus),2023-02-26,14
+human enterovirus (incl. rhinovirus),2023-03-05,13
+human enterovirus (incl. rhinovirus),2023-03-12,11
+human enterovirus (incl. rhinovirus),2023-03-19,25
+human enterovirus (incl. rhinovirus),2023-03-26,11
+human enterovirus (incl. rhinovirus),2023-04-02,10
+human enterovirus (incl. rhinovirus),2023-04-09,17
+human enterovirus (incl. rhinovirus),2023-04-16,12
+human enterovirus (incl. rhinovirus),2023-04-23,15
+human enterovirus (incl. rhinovirus),2023-04-30,21
+human enterovirus (incl. rhinovirus),2023-05-07,12
+human enterovirus (incl. rhinovirus),2023-05-14,18
+human enterovirus (incl. rhinovirus),2023-05-21,18
+human enterovirus (incl. rhinovirus),2023-05-28,18
+human enterovirus (incl. rhinovirus),2023-06-04,17
+human enterovirus (incl. rhinovirus),2023-06-11,14
+human enterovirus (incl. rhinovirus),2023-06-18,18
+human enterovirus (incl. rhinovirus),2023-06-25,16
+human enterovirus (incl. rhinovirus),2023-07-02,6
+human enterovirus (incl. rhinovirus),2023-07-09,14
+human enterovirus (incl. rhinovirus),2023-07-16,9
+human enterovirus (incl. rhinovirus),2023-07-23,14
+human enterovirus (incl. rhinovirus),2023-07-30,10
+*Pneumocystis jirovecii*,2021-11-14,16
+*Pneumocystis jirovecii*,2021-11-21,12
+*Pneumocystis jirovecii*,2021-11-28,8
+*Pneumocystis jirovecii*,2021-12-05,12
+*Pneumocystis jirovecii*,2021-12-12,8
+*Pneumocystis jirovecii*,2021-12-19,15
+*Pneumocystis jirovecii*,2021-12-26,9
+*Pneumocystis jirovecii*,2022-01-02,9
+*Pneumocystis jirovecii*,2022-01-09,15
+*Pneumocystis jirovecii*,2022-01-16,12
+*Pneumocystis jirovecii*,2022-01-23,13
+*Pneumocystis jirovecii*,2022-01-30,6
+*Pneumocystis jirovecii*,2022-02-06,5
+*Pneumocystis jirovecii*,2022-02-13,9
+*Pneumocystis jirovecii*,2022-02-20,11
+*Pneumocystis jirovecii*,2022-02-27,18
+*Pneumocystis jirovecii*,2022-03-06,12
+*Pneumocystis jirovecii*,2022-03-13,8
+*Pneumocystis jirovecii*,2022-03-20,9
+*Pneumocystis jirovecii*,2022-03-27,15
+*Pneumocystis jirovecii*,2022-04-03,9
+*Pneumocystis jirovecii*,2022-04-10,15
+*Pneumocystis jirovecii*,2022-04-17,9
+*Pneumocystis jirovecii*,2022-04-24,8
+*Pneumocystis jirovecii*,2022-05-01,11
+*Pneumocystis jirovecii*,2022-05-08,4
+*Pneumocystis jirovecii*,2022-05-15,6
+*Pneumocystis jirovecii*,2022-05-22,11
+*Pneumocystis jirovecii*,2022-05-29,10
+*Pneumocystis jirovecii*,2022-06-05,8
+*Pneumocystis jirovecii*,2022-06-12,11
+*Pneumocystis jirovecii*,2022-06-19,8
+*Pneumocystis jirovecii*,2022-06-26,7
+*Pneumocystis jirovecii*,2022-07-03,10
+*Pneumocystis jirovecii*,2022-07-10,7
+*Pneumocystis jirovecii*,2022-07-17,5
+*Pneumocystis jirovecii*,2022-07-24,9
+*Pneumocystis jirovecii*,2022-07-31,10
+*Pneumocystis jirovecii*,2022-08-07,7
+*Pneumocystis jirovecii*,2022-08-14,7
+*Pneumocystis jirovecii*,2022-08-21,8
+*Pneumocystis jirovecii*,2022-08-28,10
+*Pneumocystis jirovecii*,2022-09-04,6
+*Pneumocystis jirovecii*,2022-09-11,7
+*Pneumocystis jirovecii*,2022-09-18,10
+*Pneumocystis jirovecii*,2022-09-25,12
+*Pneumocystis jirovecii*,2022-10-02,10
+*Pneumocystis jirovecii*,2022-10-09,13
+*Pneumocystis jirovecii*,2022-10-16,3
+*Pneumocystis jirovecii*,2022-10-23,15
+*Pneumocystis jirovecii*,2022-10-30,11
+*Pneumocystis jirovecii*,2022-11-06,8
+*Pneumocystis jirovecii*,2022-11-13,9
+*Pneumocystis jirovecii*,2022-11-20,14
+*Pneumocystis jirovecii*,2022-11-27,10
+*Pneumocystis jirovecii*,2022-12-04,8
+*Pneumocystis jirovecii*,2022-12-11,9
+*Pneumocystis jirovecii*,2022-12-18,15
+*Pneumocystis jirovecii*,2022-12-25,17
+*Pneumocystis jirovecii*,2023-01-01,6
+*Pneumocystis jirovecii*,2023-01-08,8
+*Pneumocystis jirovecii*,2023-01-15,13
+*Pneumocystis jirovecii*,2023-01-22,13
+*Pneumocystis jirovecii*,2023-01-29,9
+*Pneumocystis jirovecii*,2023-02-05,5
+*Pneumocystis jirovecii*,2023-02-12,9
+*Pneumocystis jirovecii*,2023-02-19,16
+*Pneumocystis jirovecii*,2023-02-26,15
+*Pneumocystis jirovecii*,2023-03-05,12
+*Pneumocystis jirovecii*,2023-03-12,16
+*Pneumocystis jirovecii*,2023-03-19,18
+*Pneumocystis jirovecii*,2023-03-26,20
+*Pneumocystis jirovecii*,2023-04-02,7
+*Pneumocystis jirovecii*,2023-04-09,7
+*Pneumocystis jirovecii*,2023-04-16,15
+*Pneumocystis jirovecii*,2023-04-23,16
+*Pneumocystis jirovecii*,2023-04-30,18
+*Pneumocystis jirovecii*,2023-05-07,16
+*Pneumocystis jirovecii*,2023-05-14,15
+*Pneumocystis jirovecii*,2023-05-21,9
+*Pneumocystis jirovecii*,2023-05-28,15
+*Pneumocystis jirovecii*,2023-06-04,15
+*Pneumocystis jirovecii*,2023-06-11,15
+*Pneumocystis jirovecii*,2023-06-18,8
+*Pneumocystis jirovecii*,2023-06-25,8
+*Pneumocystis jirovecii*,2023-07-02,17
+*Pneumocystis jirovecii*,2023-07-09,15
+*Pneumocystis jirovecii*,2023-07-16,13
+*Pneumocystis jirovecii*,2023-07-23,9
+*Pneumocystis jirovecii*,2023-07-30,1
+influenza A virus,2021-11-14,1
+influenza A virus,2021-11-21,0
+influenza A virus,2021-11-28,0
+influenza A virus,2021-12-05,0
+influenza A virus,2021-12-12,0
+influenza A virus,2021-12-19,1
+influenza A virus,2021-12-26,4
+influenza A virus,2022-01-02,0
+influenza A virus,2022-01-09,1
+influenza A virus,2022-01-16,3
+influenza A virus,2022-01-23,1
+influenza A virus,2022-01-30,2
+influenza A virus,2022-02-06,0
+influenza A virus,2022-02-13,0
+influenza A virus,2022-02-20,1
+influenza A virus,2022-02-27,3
+influenza A virus,2022-03-06,18
+influenza A virus,2022-03-13,36
+influenza A virus,2022-03-20,46
+influenza A virus,2022-03-27,32
+influenza A virus,2022-04-03,29
+influenza A virus,2022-04-10,23
+influenza A virus,2022-04-17,8
+influenza A virus,2022-04-24,12
+influenza A virus,2022-05-01,4
+influenza A virus,2022-05-08,4
+influenza A virus,2022-05-15,5
+influenza A virus,2022-05-22,0
+influenza A virus,2022-05-29,0
+influenza A virus,2022-06-05,0
+influenza A virus,2022-06-12,0
+influenza A virus,2022-06-19,0
+influenza A virus,2022-06-26,0
+influenza A virus,2022-07-03,0
+influenza A virus,2022-07-10,0
+influenza A virus,2022-07-17,0
+influenza A virus,2022-07-24,0
+influenza A virus,2022-07-31,1
+influenza A virus,2022-08-07,1
+influenza A virus,2022-08-14,1
+influenza A virus,2022-08-21,0
+influenza A virus,2022-08-28,0
+influenza A virus,2022-09-04,0
+influenza A virus,2022-09-11,0
+influenza A virus,2022-09-18,0
+influenza A virus,2022-09-25,0
+influenza A virus,2022-10-02,0
+influenza A virus,2022-10-09,0
+influenza A virus,2022-10-16,1
+influenza A virus,2022-10-23,0
+influenza A virus,2022-10-30,0
+influenza A virus,2022-11-06,0
+influenza A virus,2022-11-13,2
+influenza A virus,2022-11-20,2
+influenza A virus,2022-11-27,3
+influenza A virus,2022-12-04,5
+influenza A virus,2022-12-11,37
+influenza A virus,2022-12-18,39
+influenza A virus,2022-12-25,36
+influenza A virus,2023-01-01,27
+influenza A virus,2023-01-08,9
+influenza A virus,2023-01-15,12
+influenza A virus,2023-01-22,11
+influenza A virus,2023-01-29,22
+influenza A virus,2023-02-05,13
+influenza A virus,2023-02-12,24
+influenza A virus,2023-02-19,14
+influenza A virus,2023-02-26,10
+influenza A virus,2023-03-05,6
+influenza A virus,2023-03-12,5
+influenza A virus,2023-03-19,2
+influenza A virus,2023-03-26,9
+influenza A virus,2023-04-02,1
+influenza A virus,2023-04-09,5
+influenza A virus,2023-04-16,2
+influenza A virus,2023-04-23,0
+influenza A virus,2023-04-30,1
+influenza A virus,2023-05-07,0
+influenza A virus,2023-05-14,1
+influenza A virus,2023-05-21,0
+influenza A virus,2023-05-28,0
+influenza A virus,2023-06-04,0
+influenza A virus,2023-06-11,0
+influenza A virus,2023-06-18,0
+influenza A virus,2023-06-25,0
+influenza A virus,2023-07-02,0
+influenza A virus,2023-07-09,0
+influenza A virus,2023-07-16,0
+influenza A virus,2023-07-23,0
+influenza A virus,2023-07-30,0
+*Streptococcus pneumoniae*,2021-11-14,16
+*Streptococcus pneumoniae*,2021-11-21,6
+*Streptococcus pneumoniae*,2021-11-28,12
+*Streptococcus pneumoniae*,2021-12-05,11
+*Streptococcus pneumoniae*,2021-12-12,4
+*Streptococcus pneumoniae*,2021-12-19,16
+*Streptococcus pneumoniae*,2021-12-26,8
+*Streptococcus pneumoniae*,2022-01-02,9
+*Streptococcus pneumoniae*,2022-01-09,13
+*Streptococcus pneumoniae*,2022-01-16,5
+*Streptococcus pneumoniae*,2022-01-23,9
+*Streptococcus pneumoniae*,2022-01-30,10
+*Streptococcus pneumoniae*,2022-02-06,16
+*Streptococcus pneumoniae*,2022-02-13,6
+*Streptococcus pneumoniae*,2022-02-20,10
+*Streptococcus pneumoniae*,2022-02-27,10
+*Streptococcus pneumoniae*,2022-03-06,15
+*Streptococcus pneumoniae*,2022-03-13,13
+*Streptococcus pneumoniae*,2022-03-20,16
+*Streptococcus pneumoniae*,2022-03-27,18
+*Streptococcus pneumoniae*,2022-04-03,12
+*Streptococcus pneumoniae*,2022-04-10,12
+*Streptococcus pneumoniae*,2022-04-17,6
+*Streptococcus pneumoniae*,2022-04-24,6
+*Streptococcus pneumoniae*,2022-05-01,9
+*Streptococcus pneumoniae*,2022-05-08,10
+*Streptococcus pneumoniae*,2022-05-15,12
+*Streptococcus pneumoniae*,2022-05-22,15
+*Streptococcus pneumoniae*,2022-05-29,19
+*Streptococcus pneumoniae*,2022-06-05,16
+*Streptococcus pneumoniae*,2022-06-12,8
+*Streptococcus pneumoniae*,2022-06-19,14
+*Streptococcus pneumoniae*,2022-06-26,19
+*Streptococcus pneumoniae*,2022-07-03,15
+*Streptococcus pneumoniae*,2022-07-10,14
+*Streptococcus pneumoniae*,2022-07-17,7
+*Streptococcus pneumoniae*,2022-07-24,8
+*Streptococcus pneumoniae*,2022-07-31,7
+*Streptococcus pneumoniae*,2022-08-07,5
+*Streptococcus pneumoniae*,2022-08-14,4
+*Streptococcus pneumoniae*,2022-08-21,5
+*Streptococcus pneumoniae*,2022-08-28,4
+*Streptococcus pneumoniae*,2022-09-04,9
+*Streptococcus pneumoniae*,2022-09-11,8
+*Streptococcus pneumoniae*,2022-09-18,9
+*Streptococcus pneumoniae*,2022-09-25,11
+*Streptococcus pneumoniae*,2022-10-02,16
+*Streptococcus pneumoniae*,2022-10-09,9
+*Streptococcus pneumoniae*,2022-10-16,14
+*Streptococcus pneumoniae*,2022-10-23,6
+*Streptococcus pneumoniae*,2022-10-30,13
+*Streptococcus pneumoniae*,2022-11-06,8
+*Streptococcus pneumoniae*,2022-11-13,8
+*Streptococcus pneumoniae*,2022-11-20,24
+*Streptococcus pneumoniae*,2022-11-27,13
+*Streptococcus pneumoniae*,2022-12-04,17
+*Streptococcus pneumoniae*,2022-12-11,19
+*Streptococcus pneumoniae*,2022-12-18,17
+*Streptococcus pneumoniae*,2022-12-25,17
+*Streptococcus pneumoniae*,2023-01-01,11
+*Streptococcus pneumoniae*,2023-01-08,12
+*Streptococcus pneumoniae*,2023-01-15,11
+*Streptococcus pneumoniae*,2023-01-22,12
+*Streptococcus pneumoniae*,2023-01-29,13
+*Streptococcus pneumoniae*,2023-02-05,13
+*Streptococcus pneumoniae*,2023-02-12,11
+*Streptococcus pneumoniae*,2023-02-19,14
+*Streptococcus pneumoniae*,2023-02-26,19
+*Streptococcus pneumoniae*,2023-03-05,6
+*Streptococcus pneumoniae*,2023-03-12,16
+*Streptococcus pneumoniae*,2023-03-19,17
+*Streptococcus pneumoniae*,2023-03-26,11
+*Streptococcus pneumoniae*,2023-04-02,14
+*Streptococcus pneumoniae*,2023-04-09,12
+*Streptococcus pneumoniae*,2023-04-16,5
+*Streptococcus pneumoniae*,2023-04-23,13
+*Streptococcus pneumoniae*,2023-04-30,19
+*Streptococcus pneumoniae*,2023-05-07,17
+*Streptococcus pneumoniae*,2023-05-14,10
+*Streptococcus pneumoniae*,2023-05-21,9
+*Streptococcus pneumoniae*,2023-05-28,18
+*Streptococcus pneumoniae*,2023-06-04,12
+*Streptococcus pneumoniae*,2023-06-11,18
+*Streptococcus pneumoniae*,2023-06-18,13
+*Streptococcus pneumoniae*,2023-06-25,6
+*Streptococcus pneumoniae*,2023-07-02,5
+*Streptococcus pneumoniae*,2023-07-09,15
+*Streptococcus pneumoniae*,2023-07-16,11
+*Streptococcus pneumoniae*,2023-07-23,12
+*Streptococcus pneumoniae*,2023-07-30,8
+respiratory syncytial virus,2021-11-14,2
+respiratory syncytial virus,2021-11-21,3
+respiratory syncytial virus,2021-11-28,2
+respiratory syncytial virus,2021-12-05,2
+respiratory syncytial virus,2021-12-12,5
+respiratory syncytial virus,2021-12-19,1
+respiratory syncytial virus,2021-12-26,5
+respiratory syncytial virus,2022-01-02,4
+respiratory syncytial virus,2022-01-09,1
+respiratory syncytial virus,2022-01-16,1
+respiratory syncytial virus,2022-01-23,2
+respiratory syncytial virus,2022-01-30,1
+respiratory syncytial virus,2022-02-06,5
+respiratory syncytial virus,2022-02-13,5
+respiratory syncytial virus,2022-02-20,3
+respiratory syncytial virus,2022-02-27,2
+respiratory syncytial virus,2022-03-06,1
+respiratory syncytial virus,2022-03-13,0
+respiratory syncytial virus,2022-03-20,3
+respiratory syncytial virus,2022-03-27,3
+respiratory syncytial virus,2022-04-03,2
+respiratory syncytial virus,2022-04-10,4
+respiratory syncytial virus,2022-04-17,1
+respiratory syncytial virus,2022-04-24,3
+respiratory syncytial virus,2022-05-01,2
+respiratory syncytial virus,2022-05-08,2
+respiratory syncytial virus,2022-05-15,9
+respiratory syncytial virus,2022-05-22,2
+respiratory syncytial virus,2022-05-29,2
+respiratory syncytial virus,2022-06-05,4
+respiratory syncytial virus,2022-06-12,5
+respiratory syncytial virus,2022-06-19,11
+respiratory syncytial virus,2022-06-26,8
+respiratory syncytial virus,2022-07-03,2
+respiratory syncytial virus,2022-07-10,3
+respiratory syncytial virus,2022-07-17,4
+respiratory syncytial virus,2022-07-24,5
+respiratory syncytial virus,2022-07-31,2
+respiratory syncytial virus,2022-08-07,2
+respiratory syncytial virus,2022-08-14,1
+respiratory syncytial virus,2022-08-21,0
+respiratory syncytial virus,2022-08-28,0
+respiratory syncytial virus,2022-09-04,1
+respiratory syncytial virus,2022-09-11,2
+respiratory syncytial virus,2022-09-18,0
+respiratory syncytial virus,2022-09-25,1
+respiratory syncytial virus,2022-10-02,1
+respiratory syncytial virus,2022-10-09,0
+respiratory syncytial virus,2022-10-16,3
+respiratory syncytial virus,2022-10-23,2
+respiratory syncytial virus,2022-10-30,7
+respiratory syncytial virus,2022-11-06,5
+respiratory syncytial virus,2022-11-13,20
+respiratory syncytial virus,2022-11-20,30
+respiratory syncytial virus,2022-11-27,36
+respiratory syncytial virus,2022-12-04,45
+respiratory syncytial virus,2022-12-11,58
+respiratory syncytial virus,2022-12-18,68
+respiratory syncytial virus,2022-12-25,41
+respiratory syncytial virus,2023-01-01,30
+respiratory syncytial virus,2023-01-08,12
+respiratory syncytial virus,2023-01-15,13
+respiratory syncytial virus,2023-01-22,0
+respiratory syncytial virus,2023-01-29,8
+respiratory syncytial virus,2023-02-05,16
+respiratory syncytial virus,2023-02-12,5
+respiratory syncytial virus,2023-02-19,9
+respiratory syncytial virus,2023-02-26,6
+respiratory syncytial virus,2023-03-05,9
+respiratory syncytial virus,2023-03-12,3
+respiratory syncytial virus,2023-03-19,15
+respiratory syncytial virus,2023-03-26,2
+respiratory syncytial virus,2023-04-02,1
+respiratory syncytial virus,2023-04-09,2
+respiratory syncytial virus,2023-04-16,4
+respiratory syncytial virus,2023-04-23,2
+respiratory syncytial virus,2023-04-30,1
+respiratory syncytial virus,2023-05-07,0
+respiratory syncytial virus,2023-05-14,0
+respiratory syncytial virus,2023-05-21,0
+respiratory syncytial virus,2023-05-28,0
+respiratory syncytial virus,2023-06-04,1
+respiratory syncytial virus,2023-06-11,0
+respiratory syncytial virus,2023-06-18,0
+respiratory syncytial virus,2023-06-25,2
+respiratory syncytial virus,2023-07-02,1
+respiratory syncytial virus,2023-07-09,0
+respiratory syncytial virus,2023-07-16,1
+respiratory syncytial virus,2023-07-23,0
+respiratory syncytial virus,2023-07-30,0
+human parainfluenza virus 3,2021-11-14,0
+human parainfluenza virus 3,2021-11-21,1
+human parainfluenza virus 3,2021-11-28,0
+human parainfluenza virus 3,2021-12-05,2
+human parainfluenza virus 3,2021-12-12,4
+human parainfluenza virus 3,2021-12-19,1
+human parainfluenza virus 3,2021-12-26,1
+human parainfluenza virus 3,2022-01-02,1
+human parainfluenza virus 3,2022-01-09,1
+human parainfluenza virus 3,2022-01-16,0
+human parainfluenza virus 3,2022-01-23,1
+human parainfluenza virus 3,2022-01-30,1
+human parainfluenza virus 3,2022-02-06,3
+human parainfluenza virus 3,2022-02-13,0
+human parainfluenza virus 3,2022-02-20,0
+human parainfluenza virus 3,2022-02-27,2
+human parainfluenza virus 3,2022-03-06,1
+human parainfluenza virus 3,2022-03-13,1
+human parainfluenza virus 3,2022-03-20,3
+human parainfluenza virus 3,2022-03-27,4
+human parainfluenza virus 3,2022-04-03,1
+human parainfluenza virus 3,2022-04-10,5
+human parainfluenza virus 3,2022-04-17,0
+human parainfluenza virus 3,2022-04-24,2
+human parainfluenza virus 3,2022-05-01,8
+human parainfluenza virus 3,2022-05-08,4
+human parainfluenza virus 3,2022-05-15,5
+human parainfluenza virus 3,2022-05-22,3
+human parainfluenza virus 3,2022-05-29,8
+human parainfluenza virus 3,2022-06-05,8
+human parainfluenza virus 3,2022-06-12,5
+human parainfluenza virus 3,2022-06-19,6
+human parainfluenza virus 3,2022-06-26,5
+human parainfluenza virus 3,2022-07-03,3
+human parainfluenza virus 3,2022-07-10,5
+human parainfluenza virus 3,2022-07-17,0
+human parainfluenza virus 3,2022-07-24,2
+human parainfluenza virus 3,2022-07-31,2
+human parainfluenza virus 3,2022-08-07,1
+human parainfluenza virus 3,2022-08-14,1
+human parainfluenza virus 3,2022-08-21,0
+human parainfluenza virus 3,2022-08-28,0
+human parainfluenza virus 3,2022-09-04,0
+human parainfluenza virus 3,2022-09-11,0
+human parainfluenza virus 3,2022-09-18,0
+human parainfluenza virus 3,2022-09-25,0
+human parainfluenza virus 3,2022-10-02,3
+human parainfluenza virus 3,2022-10-09,0
+human parainfluenza virus 3,2022-10-16,1
+human parainfluenza virus 3,2022-10-23,0
+human parainfluenza virus 3,2022-10-30,0
+human parainfluenza virus 3,2022-11-06,0
+human parainfluenza virus 3,2022-11-13,1
+human parainfluenza virus 3,2022-11-20,0
+human parainfluenza virus 3,2022-11-27,0
+human parainfluenza virus 3,2022-12-04,0
+human parainfluenza virus 3,2022-12-11,0
+human parainfluenza virus 3,2022-12-18,0
+human parainfluenza virus 3,2022-12-25,0
+human parainfluenza virus 3,2023-01-01,1
+human parainfluenza virus 3,2023-01-08,0
+human parainfluenza virus 3,2023-01-15,1
+human parainfluenza virus 3,2023-01-22,0
+human parainfluenza virus 3,2023-01-29,0
+human parainfluenza virus 3,2023-02-05,0
+human parainfluenza virus 3,2023-02-12,0
+human parainfluenza virus 3,2023-02-19,0
+human parainfluenza virus 3,2023-02-26,2
+human parainfluenza virus 3,2023-03-05,1
+human parainfluenza virus 3,2023-03-12,1
+human parainfluenza virus 3,2023-03-19,3
+human parainfluenza virus 3,2023-03-26,3
+human parainfluenza virus 3,2023-04-02,1
+human parainfluenza virus 3,2023-04-09,1
+human parainfluenza virus 3,2023-04-16,3
+human parainfluenza virus 3,2023-04-23,4
+human parainfluenza virus 3,2023-04-30,9
+human parainfluenza virus 3,2023-05-07,6
+human parainfluenza virus 3,2023-05-14,7
+human parainfluenza virus 3,2023-05-21,14
+human parainfluenza virus 3,2023-05-28,6
+human parainfluenza virus 3,2023-06-04,10
+human parainfluenza virus 3,2023-06-11,10
+human parainfluenza virus 3,2023-06-18,4
+human parainfluenza virus 3,2023-06-25,3
+human parainfluenza virus 3,2023-07-02,1
+human parainfluenza virus 3,2023-07-09,4
+human parainfluenza virus 3,2023-07-16,4
+human parainfluenza virus 3,2023-07-23,1
+human parainfluenza virus 3,2023-07-30,0
+influenza B virus,2021-11-14,0
+influenza B virus,2021-11-21,0
+influenza B virus,2021-11-28,0
+influenza B virus,2021-12-05,0
+influenza B virus,2021-12-12,0
+influenza B virus,2021-12-19,0
+influenza B virus,2021-12-26,0
+influenza B virus,2022-01-02,0
+influenza B virus,2022-01-09,0
+influenza B virus,2022-01-16,2
+influenza B virus,2022-01-23,0
+influenza B virus,2022-01-30,0
+influenza B virus,2022-02-06,0
+influenza B virus,2022-02-13,0
+influenza B virus,2022-02-20,0
+influenza B virus,2022-02-27,0
+influenza B virus,2022-03-06,0
+influenza B virus,2022-03-13,0
+influenza B virus,2022-03-20,1
+influenza B virus,2022-03-27,3
+influenza B virus,2022-04-03,0
+influenza B virus,2022-04-10,0
+influenza B virus,2022-04-17,0
+influenza B virus,2022-04-24,0
+influenza B virus,2022-05-01,0
+influenza B virus,2022-05-08,0
+influenza B virus,2022-05-15,0
+influenza B virus,2022-05-22,0
+influenza B virus,2022-05-29,0
+influenza B virus,2022-06-05,0
+influenza B virus,2022-06-12,0
+influenza B virus,2022-06-19,0
+influenza B virus,2022-06-26,0
+influenza B virus,2022-07-03,0
+influenza B virus,2022-07-10,0
+influenza B virus,2022-07-17,0
+influenza B virus,2022-07-24,0
+influenza B virus,2022-07-31,0
+influenza B virus,2022-08-07,0
+influenza B virus,2022-08-14,0
+influenza B virus,2022-08-21,0
+influenza B virus,2022-08-28,0
+influenza B virus,2022-09-04,0
+influenza B virus,2022-09-11,0
+influenza B virus,2022-09-18,0
+influenza B virus,2022-09-25,0
+influenza B virus,2022-10-02,0
+influenza B virus,2022-10-09,0
+influenza B virus,2022-10-16,0
+influenza B virus,2022-10-23,0
+influenza B virus,2022-10-30,0
+influenza B virus,2022-11-06,0
+influenza B virus,2022-11-13,1
+influenza B virus,2022-11-20,0
+influenza B virus,2022-11-27,1
+influenza B virus,2022-12-04,4
+influenza B virus,2022-12-11,17
+influenza B virus,2022-12-18,29
+influenza B virus,2022-12-25,23
+influenza B virus,2023-01-01,23
+influenza B virus,2023-01-08,11
+influenza B virus,2023-01-15,1
+influenza B virus,2023-01-22,7
+influenza B virus,2023-01-29,8
+influenza B virus,2023-02-05,6
+influenza B virus,2023-02-12,6
+influenza B virus,2023-02-19,5
+influenza B virus,2023-02-26,2
+influenza B virus,2023-03-05,2
+influenza B virus,2023-03-12,6
+influenza B virus,2023-03-19,5
+influenza B virus,2023-03-26,0
+influenza B virus,2023-04-02,3
+influenza B virus,2023-04-09,0
+influenza B virus,2023-04-16,0
+influenza B virus,2023-04-23,0
+influenza B virus,2023-04-30,0
+influenza B virus,2023-05-07,0
+influenza B virus,2023-05-14,0
+influenza B virus,2023-05-21,2
+influenza B virus,2023-05-28,1
+influenza B virus,2023-06-04,1
+influenza B virus,2023-06-11,0
+influenza B virus,2023-06-18,0
+influenza B virus,2023-06-25,0
+influenza B virus,2023-07-02,0
+influenza B virus,2023-07-09,0
+influenza B virus,2023-07-16,0
+influenza B virus,2023-07-23,0
+influenza B virus,2023-07-30,0
+human adenovirus,2021-11-14,1
+human adenovirus,2021-11-21,2
+human adenovirus,2021-11-28,3
+human adenovirus,2021-12-05,5
+human adenovirus,2021-12-12,1
+human adenovirus,2021-12-19,2
+human adenovirus,2021-12-26,6
+human adenovirus,2022-01-02,0
+human adenovirus,2022-01-09,5
+human adenovirus,2022-01-16,2
+human adenovirus,2022-01-23,4
+human adenovirus,2022-01-30,3
+human adenovirus,2022-02-06,0
+human adenovirus,2022-02-13,5
+human adenovirus,2022-02-20,1
+human adenovirus,2022-02-27,2
+human adenovirus,2022-03-06,2
+human adenovirus,2022-03-13,2
+human adenovirus,2022-03-20,2
+human adenovirus,2022-03-27,3
+human adenovirus,2022-04-03,2
+human adenovirus,2022-04-10,0
+human adenovirus,2022-04-17,1
+human adenovirus,2022-04-24,0
+human adenovirus,2022-05-01,3
+human adenovirus,2022-05-08,2
+human adenovirus,2022-05-15,2
+human adenovirus,2022-05-22,1
+human adenovirus,2022-05-29,2
+human adenovirus,2022-06-05,1
+human adenovirus,2022-06-12,3
+human adenovirus,2022-06-19,4
+human adenovirus,2022-06-26,7
+human adenovirus,2022-07-03,5
+human adenovirus,2022-07-10,7
+human adenovirus,2022-07-17,4
+human adenovirus,2022-07-24,3
+human adenovirus,2022-07-31,3
+human adenovirus,2022-08-07,3
+human adenovirus,2022-08-14,1
+human adenovirus,2022-08-21,1
+human adenovirus,2022-08-28,2
+human adenovirus,2022-09-04,0
+human adenovirus,2022-09-11,4
+human adenovirus,2022-09-18,1
+human adenovirus,2022-09-25,4
+human adenovirus,2022-10-02,3
+human adenovirus,2022-10-09,2
+human adenovirus,2022-10-16,1
+human adenovirus,2022-10-23,1
+human adenovirus,2022-10-30,2
+human adenovirus,2022-11-06,1
+human adenovirus,2022-11-13,7
+human adenovirus,2022-11-20,4
+human adenovirus,2022-11-27,1
+human adenovirus,2022-12-04,5
+human adenovirus,2022-12-11,4
+human adenovirus,2022-12-18,2
+human adenovirus,2022-12-25,3
+human adenovirus,2023-01-01,3
+human adenovirus,2023-01-08,2
+human adenovirus,2023-01-15,3
+human adenovirus,2023-01-22,2
+human adenovirus,2023-01-29,4
+human adenovirus,2023-02-05,1
+human adenovirus,2023-02-12,5
+human adenovirus,2023-02-19,3
+human adenovirus,2023-02-26,6
+human adenovirus,2023-03-05,2
+human adenovirus,2023-03-12,2
+human adenovirus,2023-03-19,3
+human adenovirus,2023-03-26,2
+human adenovirus,2023-04-02,2
+human adenovirus,2023-04-09,0
+human adenovirus,2023-04-16,4
+human adenovirus,2023-04-23,3
+human adenovirus,2023-04-30,7
+human adenovirus,2023-05-07,3
+human adenovirus,2023-05-14,4
+human adenovirus,2023-05-21,4
+human adenovirus,2023-05-28,5
+human adenovirus,2023-06-04,3
+human adenovirus,2023-06-11,2
+human adenovirus,2023-06-18,3
+human adenovirus,2023-06-25,5
+human adenovirus,2023-07-02,4
+human adenovirus,2023-07-09,2
+human adenovirus,2023-07-16,4
+human adenovirus,2023-07-23,4
+human adenovirus,2023-07-30,4
+human bocavirus,2021-11-14,3
+human bocavirus,2021-11-21,0
+human bocavirus,2021-11-28,3
+human bocavirus,2021-12-05,3
+human bocavirus,2021-12-12,2
+human bocavirus,2021-12-19,3
+human bocavirus,2021-12-26,6
+human bocavirus,2022-01-02,2
+human bocavirus,2022-01-09,3
+human bocavirus,2022-01-16,2
+human bocavirus,2022-01-23,5
+human bocavirus,2022-01-30,3
+human bocavirus,2022-02-06,1
+human bocavirus,2022-02-13,4
+human bocavirus,2022-02-20,1
+human bocavirus,2022-02-27,1
+human bocavirus,2022-03-06,2
+human bocavirus,2022-03-13,1
+human bocavirus,2022-03-20,2
+human bocavirus,2022-03-27,3
+human bocavirus,2022-04-03,2
+human bocavirus,2022-04-10,1
+human bocavirus,2022-04-17,2
+human bocavirus,2022-04-24,1
+human bocavirus,2022-05-01,1
+human bocavirus,2022-05-08,0
+human bocavirus,2022-05-15,3
+human bocavirus,2022-05-22,1
+human bocavirus,2022-05-29,2
+human bocavirus,2022-06-05,4
+human bocavirus,2022-06-12,2
+human bocavirus,2022-06-19,3
+human bocavirus,2022-06-26,3
+human bocavirus,2022-07-03,1
+human bocavirus,2022-07-10,2
+human bocavirus,2022-07-17,1
+human bocavirus,2022-07-24,1
+human bocavirus,2022-07-31,2
+human bocavirus,2022-08-07,2
+human bocavirus,2022-08-14,1
+human bocavirus,2022-08-21,1
+human bocavirus,2022-08-28,0
+human bocavirus,2022-09-04,1
+human bocavirus,2022-09-11,0
+human bocavirus,2022-09-18,0
+human bocavirus,2022-09-25,0
+human bocavirus,2022-10-02,1
+human bocavirus,2022-10-09,3
+human bocavirus,2022-10-16,0
+human bocavirus,2022-10-23,2
+human bocavirus,2022-10-30,3
+human bocavirus,2022-11-06,0
+human bocavirus,2022-11-13,2
+human bocavirus,2022-11-20,2
+human bocavirus,2022-11-27,0
+human bocavirus,2022-12-04,3
+human bocavirus,2022-12-11,3
+human bocavirus,2022-12-18,2
+human bocavirus,2022-12-25,0
+human bocavirus,2023-01-01,4
+human bocavirus,2023-01-08,1
+human bocavirus,2023-01-15,1
+human bocavirus,2023-01-22,0
+human bocavirus,2023-01-29,3
+human bocavirus,2023-02-05,1
+human bocavirus,2023-02-12,2
+human bocavirus,2023-02-19,2
+human bocavirus,2023-02-26,4
+human bocavirus,2023-03-05,2
+human bocavirus,2023-03-12,4
+human bocavirus,2023-03-19,2
+human bocavirus,2023-03-26,1
+human bocavirus,2023-04-02,0
+human bocavirus,2023-04-09,1
+human bocavirus,2023-04-16,0
+human bocavirus,2023-04-23,4
+human bocavirus,2023-04-30,6
+human bocavirus,2023-05-07,2
+human bocavirus,2023-05-14,4
+human bocavirus,2023-05-21,2
+human bocavirus,2023-05-28,4
+human bocavirus,2023-06-04,2
+human bocavirus,2023-06-11,5
+human bocavirus,2023-06-18,0
+human bocavirus,2023-06-25,2
+human bocavirus,2023-07-02,2
+human bocavirus,2023-07-09,1
+human bocavirus,2023-07-16,4
+human bocavirus,2023-07-23,1
+human bocavirus,2023-07-30,2
+*Human metapneumovirus*,2021-11-14,2
+*Human metapneumovirus*,2021-11-21,1
+*Human metapneumovirus*,2021-11-28,3
+*Human metapneumovirus*,2021-12-05,3
+*Human metapneumovirus*,2021-12-12,3
+*Human metapneumovirus*,2021-12-19,3
+*Human metapneumovirus*,2021-12-26,1
+*Human metapneumovirus*,2022-01-02,1
+*Human metapneumovirus*,2022-01-09,1
+*Human metapneumovirus*,2022-01-16,0
+*Human metapneumovirus*,2022-01-23,1
+*Human metapneumovirus*,2022-01-30,0
+*Human metapneumovirus*,2022-02-06,0
+*Human metapneumovirus*,2022-02-13,0
+*Human metapneumovirus*,2022-02-20,0
+*Human metapneumovirus*,2022-02-27,0
+*Human metapneumovirus*,2022-03-06,0
+*Human metapneumovirus*,2022-03-13,0
+*Human metapneumovirus*,2022-03-20,0
+*Human metapneumovirus*,2022-03-27,0
+*Human metapneumovirus*,2022-04-03,0
+*Human metapneumovirus*,2022-04-10,0
+*Human metapneumovirus*,2022-04-17,0
+*Human metapneumovirus*,2022-04-24,0
+*Human metapneumovirus*,2022-05-01,0
+*Human metapneumovirus*,2022-05-08,2
+*Human metapneumovirus*,2022-05-15,1
+*Human metapneumovirus*,2022-05-22,0
+*Human metapneumovirus*,2022-05-29,2
+*Human metapneumovirus*,2022-06-05,1
+*Human metapneumovirus*,2022-06-12,0
+*Human metapneumovirus*,2022-06-19,0
+*Human metapneumovirus*,2022-06-26,1
+*Human metapneumovirus*,2022-07-03,1
+*Human metapneumovirus*,2022-07-10,0
+*Human metapneumovirus*,2022-07-17,1
+*Human metapneumovirus*,2022-07-24,0
+*Human metapneumovirus*,2022-07-31,0
+*Human metapneumovirus*,2022-08-07,0
+*Human metapneumovirus*,2022-08-14,0
+*Human metapneumovirus*,2022-08-21,0
+*Human metapneumovirus*,2022-08-28,1
+*Human metapneumovirus*,2022-09-04,0
+*Human metapneumovirus*,2022-09-11,1
+*Human metapneumovirus*,2022-09-18,0
+*Human metapneumovirus*,2022-09-25,0
+*Human metapneumovirus*,2022-10-02,1
+*Human metapneumovirus*,2022-10-09,0
+*Human metapneumovirus*,2022-10-16,2
+*Human metapneumovirus*,2022-10-23,0
+*Human metapneumovirus*,2022-10-30,3
+*Human metapneumovirus*,2022-11-06,3
+*Human metapneumovirus*,2022-11-13,3
+*Human metapneumovirus*,2022-11-20,10
+*Human metapneumovirus*,2022-11-27,8
+*Human metapneumovirus*,2022-12-04,15
+*Human metapneumovirus*,2022-12-11,14
+*Human metapneumovirus*,2022-12-18,15
+*Human metapneumovirus*,2022-12-25,9
+*Human metapneumovirus*,2023-01-01,8
+*Human metapneumovirus*,2023-01-08,3
+*Human metapneumovirus*,2023-01-15,3
+*Human metapneumovirus*,2023-01-22,1
+*Human metapneumovirus*,2023-01-29,1
+*Human metapneumovirus*,2023-02-05,4
+*Human metapneumovirus*,2023-02-12,3
+*Human metapneumovirus*,2023-02-19,4
+*Human metapneumovirus*,2023-02-26,2
+*Human metapneumovirus*,2023-03-05,0
+*Human metapneumovirus*,2023-03-12,2
+*Human metapneumovirus*,2023-03-19,1
+*Human metapneumovirus*,2023-03-26,2
+*Human metapneumovirus*,2023-04-02,0
+*Human metapneumovirus*,2023-04-09,0
+*Human metapneumovirus*,2023-04-16,3
+*Human metapneumovirus*,2023-04-23,0
+*Human metapneumovirus*,2023-04-30,0
+*Human metapneumovirus*,2023-05-07,1
+*Human metapneumovirus*,2023-05-14,0
+*Human metapneumovirus*,2023-05-21,1
+*Human metapneumovirus*,2023-05-28,1
+*Human metapneumovirus*,2023-06-04,2
+*Human metapneumovirus*,2023-06-11,1
+*Human metapneumovirus*,2023-06-18,0
+*Human metapneumovirus*,2023-06-25,0
+*Human metapneumovirus*,2023-07-02,0
+*Human metapneumovirus*,2023-07-09,0
+*Human metapneumovirus*,2023-07-16,0
+*Human metapneumovirus*,2023-07-23,0
+*Human metapneumovirus*,2023-07-30,0
+human parainfluenza virus 4,2021-11-14,0
+human parainfluenza virus 4,2021-11-21,2
+human parainfluenza virus 4,2021-11-28,3
+human parainfluenza virus 4,2021-12-05,1
+human parainfluenza virus 4,2021-12-12,1
+human parainfluenza virus 4,2021-12-19,1
+human parainfluenza virus 4,2021-12-26,2
+human parainfluenza virus 4,2022-01-02,0
+human parainfluenza virus 4,2022-01-09,0
+human parainfluenza virus 4,2022-01-16,0
+human parainfluenza virus 4,2022-01-23,0
+human parainfluenza virus 4,2022-01-30,1
+human parainfluenza virus 4,2022-02-06,1
+human parainfluenza virus 4,2022-02-13,0
+human parainfluenza virus 4,2022-02-20,0
+human parainfluenza virus 4,2022-02-27,0
+human parainfluenza virus 4,2022-03-06,0
+human parainfluenza virus 4,2022-03-13,0
+human parainfluenza virus 4,2022-03-20,1
+human parainfluenza virus 4,2022-03-27,0
+human parainfluenza virus 4,2022-04-03,2
+human parainfluenza virus 4,2022-04-10,1
+human parainfluenza virus 4,2022-04-17,0
+human parainfluenza virus 4,2022-04-24,0
+human parainfluenza virus 4,2022-05-01,0
+human parainfluenza virus 4,2022-05-08,0
+human parainfluenza virus 4,2022-05-15,1
+human parainfluenza virus 4,2022-05-22,0
+human parainfluenza virus 4,2022-05-29,0
+human parainfluenza virus 4,2022-06-05,0
+human parainfluenza virus 4,2022-06-12,0
+human parainfluenza virus 4,2022-06-19,0
+human parainfluenza virus 4,2022-06-26,1
+human parainfluenza virus 4,2022-07-03,0
+human parainfluenza virus 4,2022-07-10,1
+human parainfluenza virus 4,2022-07-17,0
+human parainfluenza virus 4,2022-07-24,0
+human parainfluenza virus 4,2022-07-31,0
+human parainfluenza virus 4,2022-08-07,0
+human parainfluenza virus 4,2022-08-14,0
+human parainfluenza virus 4,2022-08-21,0
+human parainfluenza virus 4,2022-08-28,0
+human parainfluenza virus 4,2022-09-04,0
+human parainfluenza virus 4,2022-09-11,0
+human parainfluenza virus 4,2022-09-18,0
+human parainfluenza virus 4,2022-09-25,1
+human parainfluenza virus 4,2022-10-02,2
+human parainfluenza virus 4,2022-10-09,0
+human parainfluenza virus 4,2022-10-16,0
+human parainfluenza virus 4,2022-10-23,0
+human parainfluenza virus 4,2022-10-30,0
+human parainfluenza virus 4,2022-11-06,1
+human parainfluenza virus 4,2022-11-13,1
+human parainfluenza virus 4,2022-11-20,2
+human parainfluenza virus 4,2022-11-27,0
+human parainfluenza virus 4,2022-12-04,2
+human parainfluenza virus 4,2022-12-11,1
+human parainfluenza virus 4,2022-12-18,0
+human parainfluenza virus 4,2022-12-25,0
+human parainfluenza virus 4,2023-01-01,0
+human parainfluenza virus 4,2023-01-08,2
+human parainfluenza virus 4,2023-01-15,0
+human parainfluenza virus 4,2023-01-22,1
+human parainfluenza virus 4,2023-01-29,1
+human parainfluenza virus 4,2023-02-05,0
+human parainfluenza virus 4,2023-02-12,0
+human parainfluenza virus 4,2023-02-19,0
+human parainfluenza virus 4,2023-02-26,0
+human parainfluenza virus 4,2023-03-05,0
+human parainfluenza virus 4,2023-03-12,0
+human parainfluenza virus 4,2023-03-19,0
+human parainfluenza virus 4,2023-03-26,0
+human parainfluenza virus 4,2023-04-02,1
+human parainfluenza virus 4,2023-04-09,1
+human parainfluenza virus 4,2023-04-16,0
+human parainfluenza virus 4,2023-04-23,1
+human parainfluenza virus 4,2023-04-30,0
+human parainfluenza virus 4,2023-05-07,0
+human parainfluenza virus 4,2023-05-14,1
+human parainfluenza virus 4,2023-05-21,1
+human parainfluenza virus 4,2023-05-28,0
+human parainfluenza virus 4,2023-06-04,3
+human parainfluenza virus 4,2023-06-11,1
+human parainfluenza virus 4,2023-06-18,0
+human parainfluenza virus 4,2023-06-25,1
+human parainfluenza virus 4,2023-07-02,2
+human parainfluenza virus 4,2023-07-09,1
+human parainfluenza virus 4,2023-07-16,3
+human parainfluenza virus 4,2023-07-23,5
+human parainfluenza virus 4,2023-07-30,1
+*Human coronavirus OC43*,2021-11-14,1
+*Human coronavirus OC43*,2021-11-21,0
+*Human coronavirus OC43*,2021-11-28,4
+*Human coronavirus OC43*,2021-12-05,2
+*Human coronavirus OC43*,2021-12-12,1
+*Human coronavirus OC43*,2021-12-19,1
+*Human coronavirus OC43*,2021-12-26,2
+*Human coronavirus OC43*,2022-01-02,1
+*Human coronavirus OC43*,2022-01-09,2
+*Human coronavirus OC43*,2022-01-16,2
+*Human coronavirus OC43*,2022-01-23,0
+*Human coronavirus OC43*,2022-01-30,1
+*Human coronavirus OC43*,2022-02-06,1
+*Human coronavirus OC43*,2022-02-13,0
+*Human coronavirus OC43*,2022-02-20,1
+*Human coronavirus OC43*,2022-02-27,0
+*Human coronavirus OC43*,2022-03-06,1
+*Human coronavirus OC43*,2022-03-13,2
+*Human coronavirus OC43*,2022-03-20,1
+*Human coronavirus OC43*,2022-03-27,1
+*Human coronavirus OC43*,2022-04-03,2
+*Human coronavirus OC43*,2022-04-10,1
+*Human coronavirus OC43*,2022-04-17,0
+*Human coronavirus OC43*,2022-04-24,0
+*Human coronavirus OC43*,2022-05-01,1
+*Human coronavirus OC43*,2022-05-08,0
+*Human coronavirus OC43*,2022-05-15,1
+*Human coronavirus OC43*,2022-05-22,0
+*Human coronavirus OC43*,2022-05-29,1
+*Human coronavirus OC43*,2022-06-05,2
+*Human coronavirus OC43*,2022-06-12,0
+*Human coronavirus OC43*,2022-06-19,1
+*Human coronavirus OC43*,2022-06-26,1
+*Human coronavirus OC43*,2022-07-03,2
+*Human coronavirus OC43*,2022-07-10,1
+*Human coronavirus OC43*,2022-07-17,2
+*Human coronavirus OC43*,2022-07-24,1
+*Human coronavirus OC43*,2022-07-31,0
+*Human coronavirus OC43*,2022-08-07,1
+*Human coronavirus OC43*,2022-08-14,0
+*Human coronavirus OC43*,2022-08-21,0
+*Human coronavirus OC43*,2022-08-28,1
+*Human coronavirus OC43*,2022-09-04,0
+*Human coronavirus OC43*,2022-09-11,0
+*Human coronavirus OC43*,2022-09-18,1
+*Human coronavirus OC43*,2022-09-25,0
+*Human coronavirus OC43*,2022-10-02,1
+*Human coronavirus OC43*,2022-10-09,0
+*Human coronavirus OC43*,2022-10-16,0
+*Human coronavirus OC43*,2022-10-23,0
+*Human coronavirus OC43*,2022-10-30,5
+*Human coronavirus OC43*,2022-11-06,1
+*Human coronavirus OC43*,2022-11-13,1
+*Human coronavirus OC43*,2022-11-20,0
+*Human coronavirus OC43*,2022-11-27,1
+*Human coronavirus OC43*,2022-12-04,3
+*Human coronavirus OC43*,2022-12-11,4
+*Human coronavirus OC43*,2022-12-18,7
+*Human coronavirus OC43*,2022-12-25,4
+*Human coronavirus OC43*,2023-01-01,2
+*Human coronavirus OC43*,2023-01-08,2
+*Human coronavirus OC43*,2023-01-15,3
+*Human coronavirus OC43*,2023-01-22,1
+*Human coronavirus OC43*,2023-01-29,3
+*Human coronavirus OC43*,2023-02-05,4
+*Human coronavirus OC43*,2023-02-12,0
+*Human coronavirus OC43*,2023-02-19,2
+*Human coronavirus OC43*,2023-02-26,0
+*Human coronavirus OC43*,2023-03-05,0
+*Human coronavirus OC43*,2023-03-12,1
+*Human coronavirus OC43*,2023-03-19,0
+*Human coronavirus OC43*,2023-03-26,2
+*Human coronavirus OC43*,2023-04-02,1
+*Human coronavirus OC43*,2023-04-09,4
+*Human coronavirus OC43*,2023-04-16,0
+*Human coronavirus OC43*,2023-04-23,2
+*Human coronavirus OC43*,2023-04-30,2
+*Human coronavirus OC43*,2023-05-07,0
+*Human coronavirus OC43*,2023-05-14,2
+*Human coronavirus OC43*,2023-05-21,0
+*Human coronavirus OC43*,2023-05-28,2
+*Human coronavirus OC43*,2023-06-04,1
+*Human coronavirus OC43*,2023-06-11,0
+*Human coronavirus OC43*,2023-06-18,1
+*Human coronavirus OC43*,2023-06-25,0
+*Human coronavirus OC43*,2023-07-02,0
+*Human coronavirus OC43*,2023-07-09,0
+*Human coronavirus OC43*,2023-07-16,1
+*Human coronavirus OC43*,2023-07-23,0
+*Human coronavirus OC43*,2023-07-30,0
+human parainfluenza virus 1,2021-11-14,0
+human parainfluenza virus 1,2021-11-21,0
+human parainfluenza virus 1,2021-11-28,0
+human parainfluenza virus 1,2021-12-05,0
+human parainfluenza virus 1,2021-12-12,0
+human parainfluenza virus 1,2021-12-19,0
+human parainfluenza virus 1,2021-12-26,0
+human parainfluenza virus 1,2022-01-02,0
+human parainfluenza virus 1,2022-01-09,0
+human parainfluenza virus 1,2022-01-16,0
+human parainfluenza virus 1,2022-01-23,0
+human parainfluenza virus 1,2022-01-30,0
+human parainfluenza virus 1,2022-02-06,0
+human parainfluenza virus 1,2022-02-13,0
+human parainfluenza virus 1,2022-02-20,0
+human parainfluenza virus 1,2022-02-27,0
+human parainfluenza virus 1,2022-03-06,0
+human parainfluenza virus 1,2022-03-13,0
+human parainfluenza virus 1,2022-03-20,0
+human parainfluenza virus 1,2022-03-27,0
+human parainfluenza virus 1,2022-04-03,0
+human parainfluenza virus 1,2022-04-10,0
+human parainfluenza virus 1,2022-04-17,0
+human parainfluenza virus 1,2022-04-24,0
+human parainfluenza virus 1,2022-05-01,0
+human parainfluenza virus 1,2022-05-08,0
+human parainfluenza virus 1,2022-05-15,0
+human parainfluenza virus 1,2022-05-22,0
+human parainfluenza virus 1,2022-05-29,0
+human parainfluenza virus 1,2022-06-05,0
+human parainfluenza virus 1,2022-06-12,0
+human parainfluenza virus 1,2022-06-19,0
+human parainfluenza virus 1,2022-06-26,0
+human parainfluenza virus 1,2022-07-03,1
+human parainfluenza virus 1,2022-07-10,0
+human parainfluenza virus 1,2022-07-17,0
+human parainfluenza virus 1,2022-07-24,0
+human parainfluenza virus 1,2022-07-31,0
+human parainfluenza virus 1,2022-08-07,0
+human parainfluenza virus 1,2022-08-14,0
+human parainfluenza virus 1,2022-08-21,2
+human parainfluenza virus 1,2022-08-28,0
+human parainfluenza virus 1,2022-09-04,0
+human parainfluenza virus 1,2022-09-11,0
+human parainfluenza virus 1,2022-09-18,0
+human parainfluenza virus 1,2022-09-25,3
+human parainfluenza virus 1,2022-10-02,2
+human parainfluenza virus 1,2022-10-09,4
+human parainfluenza virus 1,2022-10-16,2
+human parainfluenza virus 1,2022-10-23,0
+human parainfluenza virus 1,2022-10-30,1
+human parainfluenza virus 1,2022-11-06,2
+human parainfluenza virus 1,2022-11-13,1
+human parainfluenza virus 1,2022-11-20,2
+human parainfluenza virus 1,2022-11-27,0
+human parainfluenza virus 1,2022-12-04,0
+human parainfluenza virus 1,2022-12-11,1
+human parainfluenza virus 1,2022-12-18,1
+human parainfluenza virus 1,2022-12-25,0
+human parainfluenza virus 1,2023-01-01,0
+human parainfluenza virus 1,2023-01-08,0
+human parainfluenza virus 1,2023-01-15,0
+human parainfluenza virus 1,2023-01-22,0
+human parainfluenza virus 1,2023-01-29,0
+human parainfluenza virus 1,2023-02-05,1
+human parainfluenza virus 1,2023-02-12,0
+human parainfluenza virus 1,2023-02-19,1
+human parainfluenza virus 1,2023-02-26,0
+human parainfluenza virus 1,2023-03-05,0
+human parainfluenza virus 1,2023-03-12,0
+human parainfluenza virus 1,2023-03-19,0
+human parainfluenza virus 1,2023-03-26,0
+human parainfluenza virus 1,2023-04-02,0
+human parainfluenza virus 1,2023-04-09,0
+human parainfluenza virus 1,2023-04-16,0
+human parainfluenza virus 1,2023-04-23,0
+human parainfluenza virus 1,2023-04-30,0
+human parainfluenza virus 1,2023-05-07,0
+human parainfluenza virus 1,2023-05-14,0
+human parainfluenza virus 1,2023-05-21,0
+human parainfluenza virus 1,2023-05-28,0
+human parainfluenza virus 1,2023-06-04,0
+human parainfluenza virus 1,2023-06-11,0
+human parainfluenza virus 1,2023-06-18,0
+human parainfluenza virus 1,2023-06-25,0
+human parainfluenza virus 1,2023-07-02,0
+human parainfluenza virus 1,2023-07-09,0
+human parainfluenza virus 1,2023-07-16,0
+human parainfluenza virus 1,2023-07-23,0
+human parainfluenza virus 1,2023-07-30,0
+*Human coronavirus HKU-1*,2021-11-14,0
+*Human coronavirus HKU-1*,2021-11-21,0
+*Human coronavirus HKU-1*,2021-11-28,0
+*Human coronavirus HKU-1*,2021-12-05,2
+*Human coronavirus HKU-1*,2021-12-12,1
+*Human coronavirus HKU-1*,2021-12-19,1
+*Human coronavirus HKU-1*,2021-12-26,0
+*Human coronavirus HKU-1*,2022-01-02,0
+*Human coronavirus HKU-1*,2022-01-09,2
+*Human coronavirus HKU-1*,2022-01-16,2
+*Human coronavirus HKU-1*,2022-01-23,1
+*Human coronavirus HKU-1*,2022-01-30,1
+*Human coronavirus HKU-1*,2022-02-06,0
+*Human coronavirus HKU-1*,2022-02-13,2
+*Human coronavirus HKU-1*,2022-02-20,3
+*Human coronavirus HKU-1*,2022-02-27,3
+*Human coronavirus HKU-1*,2022-03-06,4
+*Human coronavirus HKU-1*,2022-03-13,7
+*Human coronavirus HKU-1*,2022-03-20,3
+*Human coronavirus HKU-1*,2022-03-27,0
+*Human coronavirus HKU-1*,2022-04-03,2
+*Human coronavirus HKU-1*,2022-04-10,5
+*Human coronavirus HKU-1*,2022-04-17,0
+*Human coronavirus HKU-1*,2022-04-24,1
+*Human coronavirus HKU-1*,2022-05-01,2
+*Human coronavirus HKU-1*,2022-05-08,0
+*Human coronavirus HKU-1*,2022-05-15,1
+*Human coronavirus HKU-1*,2022-05-22,0
+*Human coronavirus HKU-1*,2022-05-29,3
+*Human coronavirus HKU-1*,2022-06-05,0
+*Human coronavirus HKU-1*,2022-06-12,0
+*Human coronavirus HKU-1*,2022-06-19,0
+*Human coronavirus HKU-1*,2022-06-26,0
+*Human coronavirus HKU-1*,2022-07-03,0
+*Human coronavirus HKU-1*,2022-07-10,0
+*Human coronavirus HKU-1*,2022-07-17,0
+*Human coronavirus HKU-1*,2022-07-24,0
+*Human coronavirus HKU-1*,2022-07-31,0
+*Human coronavirus HKU-1*,2022-08-07,0
+*Human coronavirus HKU-1*,2022-08-14,0
+*Human coronavirus HKU-1*,2022-08-21,0
+*Human coronavirus HKU-1*,2022-08-28,0
+*Human coronavirus HKU-1*,2022-09-04,0
+*Human coronavirus HKU-1*,2022-09-11,0
+*Human coronavirus HKU-1*,2022-09-18,0
+*Human coronavirus HKU-1*,2022-09-25,0
+*Human coronavirus HKU-1*,2022-10-02,0
+*Human coronavirus HKU-1*,2022-10-09,0
+*Human coronavirus HKU-1*,2022-10-16,0
+*Human coronavirus HKU-1*,2022-10-23,0
+*Human coronavirus HKU-1*,2022-10-30,0
+*Human coronavirus HKU-1*,2022-11-06,0
+*Human coronavirus HKU-1*,2022-11-13,0
+*Human coronavirus HKU-1*,2022-11-20,0
+*Human coronavirus HKU-1*,2022-11-27,0
+*Human coronavirus HKU-1*,2022-12-04,0
+*Human coronavirus HKU-1*,2022-12-11,0
+*Human coronavirus HKU-1*,2022-12-18,0
+*Human coronavirus HKU-1*,2022-12-25,0
+*Human coronavirus HKU-1*,2023-01-01,0
+*Human coronavirus HKU-1*,2023-01-08,0
+*Human coronavirus HKU-1*,2023-01-15,0
+*Human coronavirus HKU-1*,2023-01-22,0
+*Human coronavirus HKU-1*,2023-01-29,0
+*Human coronavirus HKU-1*,2023-02-05,0
+*Human coronavirus HKU-1*,2023-02-12,1
+*Human coronavirus HKU-1*,2023-02-19,0
+*Human coronavirus HKU-1*,2023-02-26,0
+*Human coronavirus HKU-1*,2023-03-05,1
+*Human coronavirus HKU-1*,2023-03-12,0
+*Human coronavirus HKU-1*,2023-03-19,1
+*Human coronavirus HKU-1*,2023-03-26,0
+*Human coronavirus HKU-1*,2023-04-02,0
+*Human coronavirus HKU-1*,2023-04-09,1
+*Human coronavirus HKU-1*,2023-04-16,2
+*Human coronavirus HKU-1*,2023-04-23,1
+*Human coronavirus HKU-1*,2023-04-30,6
+*Human coronavirus HKU-1*,2023-05-07,2
+*Human coronavirus HKU-1*,2023-05-14,3
+*Human coronavirus HKU-1*,2023-05-21,0
+*Human coronavirus HKU-1*,2023-05-28,1
+*Human coronavirus HKU-1*,2023-06-04,2
+*Human coronavirus HKU-1*,2023-06-11,0
+*Human coronavirus HKU-1*,2023-06-18,0
+*Human coronavirus HKU-1*,2023-06-25,0
+*Human coronavirus HKU-1*,2023-07-02,0
+*Human coronavirus HKU-1*,2023-07-09,1
+*Human coronavirus HKU-1*,2023-07-16,0
+*Human coronavirus HKU-1*,2023-07-23,0
+*Human coronavirus HKU-1*,2023-07-30,0
+*Coxiella burnetii*,2021-11-14,0
+*Coxiella burnetii*,2021-11-21,0
+*Coxiella burnetii*,2021-11-28,0
+*Coxiella burnetii*,2021-12-05,0
+*Coxiella burnetii*,2021-12-12,0
+*Coxiella burnetii*,2021-12-19,0
+*Coxiella burnetii*,2021-12-26,0
+*Coxiella burnetii*,2022-01-02,0
+*Coxiella burnetii*,2022-01-09,0
+*Coxiella burnetii*,2022-01-16,0
+*Coxiella burnetii*,2022-01-23,0
+*Coxiella burnetii*,2022-01-30,0
+*Coxiella burnetii*,2022-02-06,0
+*Coxiella burnetii*,2022-02-13,0
+*Coxiella burnetii*,2022-02-20,0
+*Coxiella burnetii*,2022-02-27,0
+*Coxiella burnetii*,2022-03-06,0
+*Coxiella burnetii*,2022-03-13,1
+*Coxiella burnetii*,2022-03-20,0
+*Coxiella burnetii*,2022-03-27,0
+*Coxiella burnetii*,2022-04-03,0
+*Coxiella burnetii*,2022-04-10,0
+*Coxiella burnetii*,2022-04-17,0
+*Coxiella burnetii*,2022-04-24,0
+*Coxiella burnetii*,2022-05-01,0
+*Coxiella burnetii*,2022-05-08,0
+*Coxiella burnetii*,2022-05-15,0
+*Coxiella burnetii*,2022-05-22,0
+*Coxiella burnetii*,2022-05-29,0
+*Coxiella burnetii*,2022-06-05,0
+*Coxiella burnetii*,2022-06-12,0
+*Coxiella burnetii*,2022-06-19,0
+*Coxiella burnetii*,2022-06-26,0
+*Coxiella burnetii*,2022-07-03,0
+*Coxiella burnetii*,2022-07-10,0
+*Coxiella burnetii*,2022-07-17,0
+*Coxiella burnetii*,2022-07-24,0
+*Coxiella burnetii*,2022-07-31,0
+*Coxiella burnetii*,2022-08-07,0
+*Coxiella burnetii*,2022-08-14,0
+*Coxiella burnetii*,2022-08-21,0
+*Coxiella burnetii*,2022-08-28,0
+*Coxiella burnetii*,2022-09-04,0
+*Coxiella burnetii*,2022-09-11,0
+*Coxiella burnetii*,2022-09-18,1
+*Coxiella burnetii*,2022-09-25,0
+*Coxiella burnetii*,2022-10-02,1
+*Coxiella burnetii*,2022-10-09,0
+*Coxiella burnetii*,2022-10-16,0
+*Coxiella burnetii*,2022-10-23,0
+*Coxiella burnetii*,2022-10-30,0
+*Coxiella burnetii*,2022-11-06,0
+*Coxiella burnetii*,2022-11-13,0
+*Coxiella burnetii*,2022-11-20,0
+*Coxiella burnetii*,2022-11-27,0
+*Coxiella burnetii*,2022-12-04,0
+*Coxiella burnetii*,2022-12-11,0
+*Coxiella burnetii*,2022-12-18,0
+*Coxiella burnetii*,2022-12-25,0
+*Coxiella burnetii*,2023-01-01,0
+*Coxiella burnetii*,2023-01-08,0
+*Coxiella burnetii*,2023-01-15,1
+*Coxiella burnetii*,2023-01-22,0
+*Coxiella burnetii*,2023-01-29,0
+*Coxiella burnetii*,2023-02-05,0
+*Coxiella burnetii*,2023-02-12,0
+*Coxiella burnetii*,2023-02-19,0
+*Coxiella burnetii*,2023-02-26,0
+*Coxiella burnetii*,2023-03-05,0
+*Coxiella burnetii*,2023-03-12,0
+*Coxiella burnetii*,2023-03-19,0
+*Coxiella burnetii*,2023-03-26,0
+*Coxiella burnetii*,2023-04-02,0
+*Coxiella burnetii*,2023-04-09,0
+*Coxiella burnetii*,2023-04-16,1
+*Coxiella burnetii*,2023-04-23,0
+*Coxiella burnetii*,2023-04-30,0
+*Coxiella burnetii*,2023-05-07,0
+*Coxiella burnetii*,2023-05-14,0
+*Coxiella burnetii*,2023-05-21,0
+*Coxiella burnetii*,2023-05-28,0
+*Coxiella burnetii*,2023-06-04,0
+*Coxiella burnetii*,2023-06-11,0
+*Coxiella burnetii*,2023-06-18,0
+*Coxiella burnetii*,2023-06-25,1
+*Coxiella burnetii*,2023-07-02,0
+*Coxiella burnetii*,2023-07-09,0
+*Coxiella burnetii*,2023-07-16,0
+*Coxiella burnetii*,2023-07-23,0
+*Coxiella burnetii*,2023-07-30,1
+*Mycoplasma pneumoniae*,2021-11-14,0
+*Mycoplasma pneumoniae*,2021-11-21,0
+*Mycoplasma pneumoniae*,2021-11-28,0
+*Mycoplasma pneumoniae*,2021-12-05,0
+*Mycoplasma pneumoniae*,2021-12-12,0
+*Mycoplasma pneumoniae*,2021-12-19,0
+*Mycoplasma pneumoniae*,2021-12-26,0
+*Mycoplasma pneumoniae*,2022-01-02,0
+*Mycoplasma pneumoniae*,2022-01-09,0
+*Mycoplasma pneumoniae*,2022-01-16,0
+*Mycoplasma pneumoniae*,2022-01-23,0
+*Mycoplasma pneumoniae*,2022-01-30,0
+*Mycoplasma pneumoniae*,2022-02-06,0
+*Mycoplasma pneumoniae*,2022-02-13,0
+*Mycoplasma pneumoniae*,2022-02-20,0
+*Mycoplasma pneumoniae*,2022-02-27,0
+*Mycoplasma pneumoniae*,2022-03-06,0
+*Mycoplasma pneumoniae*,2022-03-13,0
+*Mycoplasma pneumoniae*,2022-03-20,0
+*Mycoplasma pneumoniae*,2022-03-27,0
+*Mycoplasma pneumoniae*,2022-04-03,0
+*Mycoplasma pneumoniae*,2022-04-10,0
+*Mycoplasma pneumoniae*,2022-04-17,0
+*Mycoplasma pneumoniae*,2022-04-24,0
+*Mycoplasma pneumoniae*,2022-05-01,0
+*Mycoplasma pneumoniae*,2022-05-08,0
+*Mycoplasma pneumoniae*,2022-05-15,0
+*Mycoplasma pneumoniae*,2022-05-22,0
+*Mycoplasma pneumoniae*,2022-05-29,0
+*Mycoplasma pneumoniae*,2022-06-05,0
+*Mycoplasma pneumoniae*,2022-06-12,0
+*Mycoplasma pneumoniae*,2022-06-19,0
+*Mycoplasma pneumoniae*,2022-06-26,0
+*Mycoplasma pneumoniae*,2022-07-03,0
+*Mycoplasma pneumoniae*,2022-07-10,0
+*Mycoplasma pneumoniae*,2022-07-17,0
+*Mycoplasma pneumoniae*,2022-07-24,0
+*Mycoplasma pneumoniae*,2022-07-31,0
+*Mycoplasma pneumoniae*,2022-08-07,0
+*Mycoplasma pneumoniae*,2022-08-14,0
+*Mycoplasma pneumoniae*,2022-08-21,0
+*Mycoplasma pneumoniae*,2022-08-28,0
+*Mycoplasma pneumoniae*,2022-09-04,0
+*Mycoplasma pneumoniae*,2022-09-11,0
+*Mycoplasma pneumoniae*,2022-09-18,0
+*Mycoplasma pneumoniae*,2022-09-25,0
+*Mycoplasma pneumoniae*,2022-10-02,0
+*Mycoplasma pneumoniae*,2022-10-09,0
+*Mycoplasma pneumoniae*,2022-10-16,0
+*Mycoplasma pneumoniae*,2022-10-23,0
+*Mycoplasma pneumoniae*,2022-10-30,0
+*Mycoplasma pneumoniae*,2022-11-06,0
+*Mycoplasma pneumoniae*,2022-11-13,0
+*Mycoplasma pneumoniae*,2022-11-20,0
+*Mycoplasma pneumoniae*,2022-11-27,0
+*Mycoplasma pneumoniae*,2022-12-04,0
+*Mycoplasma pneumoniae*,2022-12-11,0
+*Mycoplasma pneumoniae*,2022-12-18,0
+*Mycoplasma pneumoniae*,2022-12-25,0
+*Mycoplasma pneumoniae*,2023-01-01,0
+*Mycoplasma pneumoniae*,2023-01-08,0
+*Mycoplasma pneumoniae*,2023-01-15,1
+*Mycoplasma pneumoniae*,2023-01-22,0
+*Mycoplasma pneumoniae*,2023-01-29,0
+*Mycoplasma pneumoniae*,2023-02-05,0
+*Mycoplasma pneumoniae*,2023-02-12,0
+*Mycoplasma pneumoniae*,2023-02-19,0
+*Mycoplasma pneumoniae*,2023-02-26,1
+*Mycoplasma pneumoniae*,2023-03-05,1
+*Mycoplasma pneumoniae*,2023-03-12,0
+*Mycoplasma pneumoniae*,2023-03-19,0
+*Mycoplasma pneumoniae*,2023-03-26,0
+*Mycoplasma pneumoniae*,2023-04-02,0
+*Mycoplasma pneumoniae*,2023-04-09,0
+*Mycoplasma pneumoniae*,2023-04-16,0
+*Mycoplasma pneumoniae*,2023-04-23,0
+*Mycoplasma pneumoniae*,2023-04-30,1
+*Mycoplasma pneumoniae*,2023-05-07,1
+*Mycoplasma pneumoniae*,2023-05-14,1
+*Mycoplasma pneumoniae*,2023-05-21,0
+*Mycoplasma pneumoniae*,2023-05-28,2
+*Mycoplasma pneumoniae*,2023-06-04,0
+*Mycoplasma pneumoniae*,2023-06-11,2
+*Mycoplasma pneumoniae*,2023-06-18,1
+*Mycoplasma pneumoniae*,2023-06-25,0
+*Mycoplasma pneumoniae*,2023-07-02,1
+*Mycoplasma pneumoniae*,2023-07-09,0
+*Mycoplasma pneumoniae*,2023-07-16,2
+*Mycoplasma pneumoniae*,2023-07-23,2
+*Mycoplasma pneumoniae*,2023-07-30,0
+human parainfluenza virus 2,2021-11-14,1
+human parainfluenza virus 2,2021-11-21,0
+human parainfluenza virus 2,2021-11-28,0
+human parainfluenza virus 2,2021-12-05,1
+human parainfluenza virus 2,2021-12-12,0
+human parainfluenza virus 2,2021-12-19,1
+human parainfluenza virus 2,2021-12-26,1
+human parainfluenza virus 2,2022-01-02,1
+human parainfluenza virus 2,2022-01-09,2
+human parainfluenza virus 2,2022-01-16,1
+human parainfluenza virus 2,2022-01-23,0
+human parainfluenza virus 2,2022-01-30,1
+human parainfluenza virus 2,2022-02-06,1
+human parainfluenza virus 2,2022-02-13,0
+human parainfluenza virus 2,2022-02-20,0
+human parainfluenza virus 2,2022-02-27,0
+human parainfluenza virus 2,2022-03-06,1
+human parainfluenza virus 2,2022-03-13,0
+human parainfluenza virus 2,2022-03-20,2
+human parainfluenza virus 2,2022-03-27,1
+human parainfluenza virus 2,2022-04-03,0
+human parainfluenza virus 2,2022-04-10,0
+human parainfluenza virus 2,2022-04-17,1
+human parainfluenza virus 2,2022-04-24,0
+human parainfluenza virus 2,2022-05-01,0
+human parainfluenza virus 2,2022-05-08,0
+human parainfluenza virus 2,2022-05-15,0
+human parainfluenza virus 2,2022-05-22,1
+human parainfluenza virus 2,2022-05-29,0
+human parainfluenza virus 2,2022-06-05,0
+human parainfluenza virus 2,2022-06-12,0
+human parainfluenza virus 2,2022-06-19,1
+human parainfluenza virus 2,2022-06-26,0
+human parainfluenza virus 2,2022-07-03,1
+human parainfluenza virus 2,2022-07-10,0
+human parainfluenza virus 2,2022-07-17,0
+human parainfluenza virus 2,2022-07-24,0
+human parainfluenza virus 2,2022-07-31,0
+human parainfluenza virus 2,2022-08-07,0
+human parainfluenza virus 2,2022-08-14,0
+human parainfluenza virus 2,2022-08-21,0
+human parainfluenza virus 2,2022-08-28,0
+human parainfluenza virus 2,2022-09-04,0
+human parainfluenza virus 2,2022-09-11,0
+human parainfluenza virus 2,2022-09-18,0
+human parainfluenza virus 2,2022-09-25,0
+human parainfluenza virus 2,2022-10-02,0
+human parainfluenza virus 2,2022-10-09,0
+human parainfluenza virus 2,2022-10-16,1
+human parainfluenza virus 2,2022-10-23,1
+human parainfluenza virus 2,2022-10-30,0
+human parainfluenza virus 2,2022-11-06,0
+human parainfluenza virus 2,2022-11-13,0
+human parainfluenza virus 2,2022-11-20,0
+human parainfluenza virus 2,2022-11-27,0
+human parainfluenza virus 2,2022-12-04,0
+human parainfluenza virus 2,2022-12-11,0
+human parainfluenza virus 2,2022-12-18,0
+human parainfluenza virus 2,2022-12-25,0
+human parainfluenza virus 2,2023-01-01,0
+human parainfluenza virus 2,2023-01-08,0
+human parainfluenza virus 2,2023-01-15,0
+human parainfluenza virus 2,2023-01-22,0
+human parainfluenza virus 2,2023-01-29,0
+human parainfluenza virus 2,2023-02-05,0
+human parainfluenza virus 2,2023-02-12,0
+human parainfluenza virus 2,2023-02-19,0
+human parainfluenza virus 2,2023-02-26,0
+human parainfluenza virus 2,2023-03-05,0
+human parainfluenza virus 2,2023-03-12,0
+human parainfluenza virus 2,2023-03-19,0
+human parainfluenza virus 2,2023-03-26,0
+human parainfluenza virus 2,2023-04-02,0
+human parainfluenza virus 2,2023-04-09,0
+human parainfluenza virus 2,2023-04-16,0
+human parainfluenza virus 2,2023-04-23,0
+human parainfluenza virus 2,2023-04-30,0
+human parainfluenza virus 2,2023-05-07,0
+human parainfluenza virus 2,2023-05-14,0
+human parainfluenza virus 2,2023-05-21,0
+human parainfluenza virus 2,2023-05-28,0
+human parainfluenza virus 2,2023-06-04,0
+human parainfluenza virus 2,2023-06-11,0
+human parainfluenza virus 2,2023-06-18,0
+human parainfluenza virus 2,2023-06-25,0
+human parainfluenza virus 2,2023-07-02,0
+human parainfluenza virus 2,2023-07-09,0
+human parainfluenza virus 2,2023-07-16,0
+human parainfluenza virus 2,2023-07-23,0
+human parainfluenza virus 2,2023-07-30,0
+*Human coronavirus 229E*,2021-11-14,0
+*Human coronavirus 229E*,2021-11-21,0
+*Human coronavirus 229E*,2021-11-28,1
+*Human coronavirus 229E*,2021-12-05,0
+*Human coronavirus 229E*,2021-12-12,1
+*Human coronavirus 229E*,2021-12-19,2
+*Human coronavirus 229E*,2021-12-26,0
+*Human coronavirus 229E*,2022-01-02,1
+*Human coronavirus 229E*,2022-01-09,0
+*Human coronavirus 229E*,2022-01-16,2
+*Human coronavirus 229E*,2022-01-23,0
+*Human coronavirus 229E*,2022-01-30,1
+*Human coronavirus 229E*,2022-02-06,0
+*Human coronavirus 229E*,2022-02-13,0
+*Human coronavirus 229E*,2022-02-20,0
+*Human coronavirus 229E*,2022-02-27,0
+*Human coronavirus 229E*,2022-03-06,0
+*Human coronavirus 229E*,2022-03-13,1
+*Human coronavirus 229E*,2022-03-20,0
+*Human coronavirus 229E*,2022-03-27,1
+*Human coronavirus 229E*,2022-04-03,0
+*Human coronavirus 229E*,2022-04-10,1
+*Human coronavirus 229E*,2022-04-17,0
+*Human coronavirus 229E*,2022-04-24,0
+*Human coronavirus 229E*,2022-05-01,2
+*Human coronavirus 229E*,2022-05-08,0
+*Human coronavirus 229E*,2022-05-15,1
+*Human coronavirus 229E*,2022-05-22,0
+*Human coronavirus 229E*,2022-05-29,0
+*Human coronavirus 229E*,2022-06-05,0
+*Human coronavirus 229E*,2022-06-12,0
+*Human coronavirus 229E*,2022-06-19,0
+*Human coronavirus 229E*,2022-06-26,0
+*Human coronavirus 229E*,2022-07-03,0
+*Human coronavirus 229E*,2022-07-10,0
+*Human coronavirus 229E*,2022-07-17,0
+*Human coronavirus 229E*,2022-07-24,0
+*Human coronavirus 229E*,2022-07-31,0
+*Human coronavirus 229E*,2022-08-07,0
+*Human coronavirus 229E*,2022-08-14,0
+*Human coronavirus 229E*,2022-08-21,0
+*Human coronavirus 229E*,2022-08-28,0
+*Human coronavirus 229E*,2022-09-04,1
+*Human coronavirus 229E*,2022-09-11,0
+*Human coronavirus 229E*,2022-09-18,0
+*Human coronavirus 229E*,2022-09-25,0
+*Human coronavirus 229E*,2022-10-02,0
+*Human coronavirus 229E*,2022-10-09,0
+*Human coronavirus 229E*,2022-10-16,0
+*Human coronavirus 229E*,2022-10-23,0
+*Human coronavirus 229E*,2022-10-30,0
+*Human coronavirus 229E*,2022-11-06,0
+*Human coronavirus 229E*,2022-11-13,0
+*Human coronavirus 229E*,2022-11-20,0
+*Human coronavirus 229E*,2022-11-27,0
+*Human coronavirus 229E*,2022-12-04,0
+*Human coronavirus 229E*,2022-12-11,0
+*Human coronavirus 229E*,2022-12-18,0
+*Human coronavirus 229E*,2022-12-25,0
+*Human coronavirus 229E*,2023-01-01,0
+*Human coronavirus 229E*,2023-01-08,0
+*Human coronavirus 229E*,2023-01-15,0
+*Human coronavirus 229E*,2023-01-22,0
+*Human coronavirus 229E*,2023-01-29,0
+*Human coronavirus 229E*,2023-02-05,1
+*Human coronavirus 229E*,2023-02-12,0
+*Human coronavirus 229E*,2023-02-19,1
+*Human coronavirus 229E*,2023-02-26,0
+*Human coronavirus 229E*,2023-03-05,0
+*Human coronavirus 229E*,2023-03-12,0
+*Human coronavirus 229E*,2023-03-19,0
+*Human coronavirus 229E*,2023-03-26,0
+*Human coronavirus 229E*,2023-04-02,1
+*Human coronavirus 229E*,2023-04-09,0
+*Human coronavirus 229E*,2023-04-16,1
+*Human coronavirus 229E*,2023-04-23,0
+*Human coronavirus 229E*,2023-04-30,0
+*Human coronavirus 229E*,2023-05-07,0
+*Human coronavirus 229E*,2023-05-14,0
+*Human coronavirus 229E*,2023-05-21,0
+*Human coronavirus 229E*,2023-05-28,0
+*Human coronavirus 229E*,2023-06-04,0
+*Human coronavirus 229E*,2023-06-11,0
+*Human coronavirus 229E*,2023-06-18,1
+*Human coronavirus 229E*,2023-06-25,0
+*Human coronavirus 229E*,2023-07-02,0
+*Human coronavirus 229E*,2023-07-09,0
+*Human coronavirus 229E*,2023-07-16,0
+*Human coronavirus 229E*,2023-07-23,0
+*Human coronavirus 229E*,2023-07-30,0
+*Chlamydia pneumoniae*,2021-11-14,0
+*Chlamydia pneumoniae*,2021-11-21,0
+*Chlamydia pneumoniae*,2021-11-28,0
+*Chlamydia pneumoniae*,2021-12-05,0
+*Chlamydia pneumoniae*,2021-12-12,0
+*Chlamydia pneumoniae*,2021-12-19,0
+*Chlamydia pneumoniae*,2021-12-26,0
+*Chlamydia pneumoniae*,2022-01-02,0
+*Chlamydia pneumoniae*,2022-01-09,0
+*Chlamydia pneumoniae*,2022-01-16,0
+*Chlamydia pneumoniae*,2022-01-23,0
+*Chlamydia pneumoniae*,2022-01-30,0
+*Chlamydia pneumoniae*,2022-02-06,0
+*Chlamydia pneumoniae*,2022-02-13,0
+*Chlamydia pneumoniae*,2022-02-20,0
+*Chlamydia pneumoniae*,2022-02-27,0
+*Chlamydia pneumoniae*,2022-03-06,0
+*Chlamydia pneumoniae*,2022-03-13,0
+*Chlamydia pneumoniae*,2022-03-20,0
+*Chlamydia pneumoniae*,2022-03-27,0
+*Chlamydia pneumoniae*,2022-04-03,0
+*Chlamydia pneumoniae*,2022-04-10,0
+*Chlamydia pneumoniae*,2022-04-17,0
+*Chlamydia pneumoniae*,2022-04-24,0
+*Chlamydia pneumoniae*,2022-05-01,0
+*Chlamydia pneumoniae*,2022-05-08,0
+*Chlamydia pneumoniae*,2022-05-15,0
+*Chlamydia pneumoniae*,2022-05-22,0
+*Chlamydia pneumoniae*,2022-05-29,0
+*Chlamydia pneumoniae*,2022-06-05,0
+*Chlamydia pneumoniae*,2022-06-12,0
+*Chlamydia pneumoniae*,2022-06-19,0
+*Chlamydia pneumoniae*,2022-06-26,0
+*Chlamydia pneumoniae*,2022-07-03,0
+*Chlamydia pneumoniae*,2022-07-10,0
+*Chlamydia pneumoniae*,2022-07-17,0
+*Chlamydia pneumoniae*,2022-07-24,0
+*Chlamydia pneumoniae*,2022-07-31,0
+*Chlamydia pneumoniae*,2022-08-07,0
+*Chlamydia pneumoniae*,2022-08-14,0
+*Chlamydia pneumoniae*,2022-08-21,0
+*Chlamydia pneumoniae*,2022-08-28,0
+*Chlamydia pneumoniae*,2022-09-04,0
+*Chlamydia pneumoniae*,2022-09-11,0
+*Chlamydia pneumoniae*,2022-09-18,0
+*Chlamydia pneumoniae*,2022-09-25,0
+*Chlamydia pneumoniae*,2022-10-02,0
+*Chlamydia pneumoniae*,2022-10-09,0
+*Chlamydia pneumoniae*,2022-10-16,0
+*Chlamydia pneumoniae*,2022-10-23,1
+*Chlamydia pneumoniae*,2022-10-30,0
+*Chlamydia pneumoniae*,2022-11-06,0
+*Chlamydia pneumoniae*,2022-11-13,0
+*Chlamydia pneumoniae*,2022-11-20,0
+*Chlamydia pneumoniae*,2022-11-27,0
+*Chlamydia pneumoniae*,2022-12-04,0
+*Chlamydia pneumoniae*,2022-12-11,0
+*Chlamydia pneumoniae*,2022-12-18,0
+*Chlamydia pneumoniae*,2022-12-25,0
+*Chlamydia pneumoniae*,2023-01-01,0
+*Chlamydia pneumoniae*,2023-01-08,0
+*Chlamydia pneumoniae*,2023-01-15,0
+*Chlamydia pneumoniae*,2023-01-22,0
+*Chlamydia pneumoniae*,2023-01-29,0
+*Chlamydia pneumoniae*,2023-02-05,0
+*Chlamydia pneumoniae*,2023-02-12,0
+*Chlamydia pneumoniae*,2023-02-19,0
+*Chlamydia pneumoniae*,2023-02-26,1
+*Chlamydia pneumoniae*,2023-03-05,0
+*Chlamydia pneumoniae*,2023-03-12,2
+*Chlamydia pneumoniae*,2023-03-19,0
+*Chlamydia pneumoniae*,2023-03-26,1
+*Chlamydia pneumoniae*,2023-04-02,0
+*Chlamydia pneumoniae*,2023-04-09,0
+*Chlamydia pneumoniae*,2023-04-16,0
+*Chlamydia pneumoniae*,2023-04-23,1
+*Chlamydia pneumoniae*,2023-04-30,0
+*Chlamydia pneumoniae*,2023-05-07,0
+*Chlamydia pneumoniae*,2023-05-14,0
+*Chlamydia pneumoniae*,2023-05-21,1
+*Chlamydia pneumoniae*,2023-05-28,0
+*Chlamydia pneumoniae*,2023-06-04,1
+*Chlamydia pneumoniae*,2023-06-11,0
+*Chlamydia pneumoniae*,2023-06-18,0
+*Chlamydia pneumoniae*,2023-06-25,0
+*Chlamydia pneumoniae*,2023-07-02,0
+*Chlamydia pneumoniae*,2023-07-09,0
+*Chlamydia pneumoniae*,2023-07-16,0
+*Chlamydia pneumoniae*,2023-07-23,0
+*Chlamydia pneumoniae*,2023-07-30,1
+*Legionalla pneumophila*,2021-11-14,1
+*Legionalla pneumophila*,2021-11-21,0
+*Legionalla pneumophila*,2021-11-28,2
+*Legionalla pneumophila*,2021-12-05,1
+*Legionalla pneumophila*,2021-12-12,0
+*Legionalla pneumophila*,2021-12-19,0
+*Legionalla pneumophila*,2021-12-26,0
+*Legionalla pneumophila*,2022-01-02,1
+*Legionalla pneumophila*,2022-01-09,0
+*Legionalla pneumophila*,2022-01-16,1
+*Legionalla pneumophila*,2022-01-23,0
+*Legionalla pneumophila*,2022-01-30,2
+*Legionalla pneumophila*,2022-02-06,0
+*Legionalla pneumophila*,2022-02-13,0
+*Legionalla pneumophila*,2022-02-20,0
+*Legionalla pneumophila*,2022-02-27,0
+*Legionalla pneumophila*,2022-03-06,0
+*Legionalla pneumophila*,2022-03-13,0
+*Legionalla pneumophila*,2022-03-20,1
+*Legionalla pneumophila*,2022-03-27,0
+*Legionalla pneumophila*,2022-04-03,0
+*Legionalla pneumophila*,2022-04-10,0
+*Legionalla pneumophila*,2022-04-17,0
+*Legionalla pneumophila*,2022-04-24,1
+*Legionalla pneumophila*,2022-05-01,0
+*Legionalla pneumophila*,2022-05-08,0
+*Legionalla pneumophila*,2022-05-15,0
+*Legionalla pneumophila*,2022-05-22,1
+*Legionalla pneumophila*,2022-05-29,1
+*Legionalla pneumophila*,2022-06-05,0
+*Legionalla pneumophila*,2022-06-12,1
+*Legionalla pneumophila*,2022-06-19,1
+*Legionalla pneumophila*,2022-06-26,0
+*Legionalla pneumophila*,2022-07-03,0
+*Legionalla pneumophila*,2022-07-10,0
+*Legionalla pneumophila*,2022-07-17,0
+*Legionalla pneumophila*,2022-07-24,0
+*Legionalla pneumophila*,2022-07-31,0
+*Legionalla pneumophila*,2022-08-07,0
+*Legionalla pneumophila*,2022-08-14,0
+*Legionalla pneumophila*,2022-08-21,1
+*Legionalla pneumophila*,2022-08-28,0
+*Legionalla pneumophila*,2022-09-04,0
+*Legionalla pneumophila*,2022-09-11,0
+*Legionalla pneumophila*,2022-09-18,0
+*Legionalla pneumophila*,2022-09-25,0
+*Legionalla pneumophila*,2022-10-02,0
+*Legionalla pneumophila*,2022-10-09,0
+*Legionalla pneumophila*,2022-10-16,1
+*Legionalla pneumophila*,2022-10-23,1
+*Legionalla pneumophila*,2022-10-30,1
+*Legionalla pneumophila*,2022-11-06,1
+*Legionalla pneumophila*,2022-11-13,0
+*Legionalla pneumophila*,2022-11-20,0
+*Legionalla pneumophila*,2022-11-27,1
+*Legionalla pneumophila*,2022-12-04,0
+*Legionalla pneumophila*,2022-12-11,0
+*Legionalla pneumophila*,2022-12-18,1
+*Legionalla pneumophila*,2022-12-25,0
+*Legionalla pneumophila*,2023-01-01,0
+*Legionalla pneumophila*,2023-01-08,0
+*Legionalla pneumophila*,2023-01-15,0
+*Legionalla pneumophila*,2023-01-22,1
+*Legionalla pneumophila*,2023-01-29,0
+*Legionalla pneumophila*,2023-02-05,0
+*Legionalla pneumophila*,2023-02-12,0
+*Legionalla pneumophila*,2023-02-19,0
+*Legionalla pneumophila*,2023-02-26,0
+*Legionalla pneumophila*,2023-03-05,0
+*Legionalla pneumophila*,2023-03-12,1
+*Legionalla pneumophila*,2023-03-19,0
+*Legionalla pneumophila*,2023-03-26,0
+*Legionalla pneumophila*,2023-04-02,1
+*Legionalla pneumophila*,2023-04-09,0
+*Legionalla pneumophila*,2023-04-16,1
+*Legionalla pneumophila*,2023-04-23,0
+*Legionalla pneumophila*,2023-04-30,0
+*Legionalla pneumophila*,2023-05-07,0
+*Legionalla pneumophila*,2023-05-14,1
+*Legionalla pneumophila*,2023-05-21,0
+*Legionalla pneumophila*,2023-05-28,0
+*Legionalla pneumophila*,2023-06-04,1
+*Legionalla pneumophila*,2023-06-11,0
+*Legionalla pneumophila*,2023-06-18,0
+*Legionalla pneumophila*,2023-06-25,1
+*Legionalla pneumophila*,2023-07-02,0
+*Legionalla pneumophila*,2023-07-09,0
+*Legionalla pneumophila*,2023-07-16,1
+*Legionalla pneumophila*,2023-07-23,0
+*Legionalla pneumophila*,2023-07-30,0
+human parechovirus,2021-11-14,0
+human parechovirus,2021-11-21,0
+human parechovirus,2021-11-28,0
+human parechovirus,2021-12-05,0
+human parechovirus,2021-12-12,0
+human parechovirus,2021-12-19,0
+human parechovirus,2021-12-26,0
+human parechovirus,2022-01-02,0
+human parechovirus,2022-01-09,0
+human parechovirus,2022-01-16,1
+human parechovirus,2022-01-23,0
+human parechovirus,2022-01-30,0
+human parechovirus,2022-02-06,0
+human parechovirus,2022-02-13,1
+human parechovirus,2022-02-20,0
+human parechovirus,2022-02-27,0
+human parechovirus,2022-03-06,0
+human parechovirus,2022-03-13,0
+human parechovirus,2022-03-20,0
+human parechovirus,2022-03-27,0
+human parechovirus,2022-04-03,0
+human parechovirus,2022-04-10,0
+human parechovirus,2022-04-17,0
+human parechovirus,2022-04-24,0
+human parechovirus,2022-05-01,0
+human parechovirus,2022-05-08,0
+human parechovirus,2022-05-15,0
+human parechovirus,2022-05-22,0
+human parechovirus,2022-05-29,1
+human parechovirus,2022-06-05,1
+human parechovirus,2022-06-12,0
+human parechovirus,2022-06-19,2
+human parechovirus,2022-06-26,2
+human parechovirus,2022-07-03,0
+human parechovirus,2022-07-10,0
+human parechovirus,2022-07-17,0
+human parechovirus,2022-07-24,0
+human parechovirus,2022-07-31,0
+human parechovirus,2022-08-07,0
+human parechovirus,2022-08-14,0
+human parechovirus,2022-08-21,0
+human parechovirus,2022-08-28,0
+human parechovirus,2022-09-04,0
+human parechovirus,2022-09-11,1
+human parechovirus,2022-09-18,0
+human parechovirus,2022-09-25,0
+human parechovirus,2022-10-02,0
+human parechovirus,2022-10-09,1
+human parechovirus,2022-10-16,1
+human parechovirus,2022-10-23,0
+human parechovirus,2022-10-30,0
+human parechovirus,2022-11-06,0
+human parechovirus,2022-11-13,3
+human parechovirus,2022-11-20,1
+human parechovirus,2022-11-27,0
+human parechovirus,2022-12-04,1
+human parechovirus,2022-12-11,0
+human parechovirus,2022-12-18,0
+human parechovirus,2022-12-25,0
+human parechovirus,2023-01-01,0
+human parechovirus,2023-01-08,0
+human parechovirus,2023-01-15,0
+human parechovirus,2023-01-22,0
+human parechovirus,2023-01-29,0
+human parechovirus,2023-02-05,1
+human parechovirus,2023-02-12,0
+human parechovirus,2023-02-19,0
+human parechovirus,2023-02-26,0
+human parechovirus,2023-03-05,1
+human parechovirus,2023-03-12,1
+human parechovirus,2023-03-19,1
+human parechovirus,2023-03-26,0
+human parechovirus,2023-04-02,0
+human parechovirus,2023-04-09,0
+human parechovirus,2023-04-16,0
+human parechovirus,2023-04-23,0
+human parechovirus,2023-04-30,0
+human parechovirus,2023-05-07,0
+human parechovirus,2023-05-14,0
+human parechovirus,2023-05-21,0
+human parechovirus,2023-05-28,1
+human parechovirus,2023-06-04,0
+human parechovirus,2023-06-11,1
+human parechovirus,2023-06-18,0
+human parechovirus,2023-06-25,0
+human parechovirus,2023-07-02,0
+human parechovirus,2023-07-09,0
+human parechovirus,2023-07-16,0
+human parechovirus,2023-07-23,1
+human parechovirus,2023-07-30,0
+*Human coronavirus NL63*,2021-11-14,0
+*Human coronavirus NL63*,2021-11-21,0
+*Human coronavirus NL63*,2021-11-28,0
+*Human coronavirus NL63*,2021-12-05,0
+*Human coronavirus NL63*,2021-12-12,0
+*Human coronavirus NL63*,2021-12-19,0
+*Human coronavirus NL63*,2021-12-26,0
+*Human coronavirus NL63*,2022-01-02,0
+*Human coronavirus NL63*,2022-01-09,0
+*Human coronavirus NL63*,2022-01-16,0
+*Human coronavirus NL63*,2022-01-23,0
+*Human coronavirus NL63*,2022-01-30,0
+*Human coronavirus NL63*,2022-02-06,0
+*Human coronavirus NL63*,2022-02-13,0
+*Human coronavirus NL63*,2022-02-20,0
+*Human coronavirus NL63*,2022-02-27,0
+*Human coronavirus NL63*,2022-03-06,0
+*Human coronavirus NL63*,2022-03-13,0
+*Human coronavirus NL63*,2022-03-20,0
+*Human coronavirus NL63*,2022-03-27,0
+*Human coronavirus NL63*,2022-04-03,0
+*Human coronavirus NL63*,2022-04-10,0
+*Human coronavirus NL63*,2022-04-17,0
+*Human coronavirus NL63*,2022-04-24,0
+*Human coronavirus NL63*,2022-05-01,1
+*Human coronavirus NL63*,2022-05-08,0
+*Human coronavirus NL63*,2022-05-15,0
+*Human coronavirus NL63*,2022-05-22,0
+*Human coronavirus NL63*,2022-05-29,0
+*Human coronavirus NL63*,2022-06-05,0
+*Human coronavirus NL63*,2022-06-12,0
+*Human coronavirus NL63*,2022-06-19,0
+*Human coronavirus NL63*,2022-06-26,0
+*Human coronavirus NL63*,2022-07-03,0
+*Human coronavirus NL63*,2022-07-10,1
+*Human coronavirus NL63*,2022-07-17,1
+*Human coronavirus NL63*,2022-07-24,0
+*Human coronavirus NL63*,2022-07-31,0
+*Human coronavirus NL63*,2022-08-07,0
+*Human coronavirus NL63*,2022-08-14,0
+*Human coronavirus NL63*,2022-08-21,0
+*Human coronavirus NL63*,2022-08-28,0
+*Human coronavirus NL63*,2022-09-04,0
+*Human coronavirus NL63*,2022-09-11,0
+*Human coronavirus NL63*,2022-09-18,0
+*Human coronavirus NL63*,2022-09-25,0
+*Human coronavirus NL63*,2022-10-02,1
+*Human coronavirus NL63*,2022-10-09,0
+*Human coronavirus NL63*,2022-10-16,0
+*Human coronavirus NL63*,2022-10-23,1
+*Human coronavirus NL63*,2022-10-30,0
+*Human coronavirus NL63*,2022-11-06,0
+*Human coronavirus NL63*,2022-11-13,0
+*Human coronavirus NL63*,2022-11-20,1
+*Human coronavirus NL63*,2022-11-27,0
+*Human coronavirus NL63*,2022-12-04,0
+*Human coronavirus NL63*,2022-12-11,0
+*Human coronavirus NL63*,2022-12-18,3
+*Human coronavirus NL63*,2022-12-25,0
+*Human coronavirus NL63*,2023-01-01,2
+*Human coronavirus NL63*,2023-01-08,0
+*Human coronavirus NL63*,2023-01-15,1
+*Human coronavirus NL63*,2023-01-22,0
+*Human coronavirus NL63*,2023-01-29,1
+*Human coronavirus NL63*,2023-02-05,1
+*Human coronavirus NL63*,2023-02-12,1
+*Human coronavirus NL63*,2023-02-19,2
+*Human coronavirus NL63*,2023-02-26,4
+*Human coronavirus NL63*,2023-03-05,0
+*Human coronavirus NL63*,2023-03-12,1
+*Human coronavirus NL63*,2023-03-19,2
+*Human coronavirus NL63*,2023-03-26,1
+*Human coronavirus NL63*,2023-04-02,1
+*Human coronavirus NL63*,2023-04-09,1
+*Human coronavirus NL63*,2023-04-16,0
+*Human coronavirus NL63*,2023-04-23,1
+*Human coronavirus NL63*,2023-04-30,1
+*Human coronavirus NL63*,2023-05-07,0
+*Human coronavirus NL63*,2023-05-14,0
+*Human coronavirus NL63*,2023-05-21,0
+*Human coronavirus NL63*,2023-05-28,0
+*Human coronavirus NL63*,2023-06-04,0
+*Human coronavirus NL63*,2023-06-11,0
+*Human coronavirus NL63*,2023-06-18,0
+*Human coronavirus NL63*,2023-06-25,0
+*Human coronavirus NL63*,2023-07-02,1
+*Human coronavirus NL63*,2023-07-09,0
+*Human coronavirus NL63*,2023-07-16,0
+*Human coronavirus NL63*,2023-07-23,0
+*Human coronavirus NL63*,2023-07-30,0
+*Chlamydia psittaci*,2021-11-14,0
+*Chlamydia psittaci*,2021-11-21,0
+*Chlamydia psittaci*,2021-11-28,0
+*Chlamydia psittaci*,2021-12-05,0
+*Chlamydia psittaci*,2021-12-12,0
+*Chlamydia psittaci*,2021-12-19,0
+*Chlamydia psittaci*,2021-12-26,0
+*Chlamydia psittaci*,2022-01-02,0
+*Chlamydia psittaci*,2022-01-09,0
+*Chlamydia psittaci*,2022-01-16,0
+*Chlamydia psittaci*,2022-01-23,0
+*Chlamydia psittaci*,2022-01-30,0
+*Chlamydia psittaci*,2022-02-06,0
+*Chlamydia psittaci*,2022-02-13,0
+*Chlamydia psittaci*,2022-02-20,1
+*Chlamydia psittaci*,2022-02-27,0
+*Chlamydia psittaci*,2022-03-06,1
+*Chlamydia psittaci*,2022-03-13,0
+*Chlamydia psittaci*,2022-03-20,0
+*Chlamydia psittaci*,2022-03-27,0
+*Chlamydia psittaci*,2022-04-03,0
+*Chlamydia psittaci*,2022-04-10,0
+*Chlamydia psittaci*,2022-04-17,0
+*Chlamydia psittaci*,2022-04-24,0
+*Chlamydia psittaci*,2022-05-01,0
+*Chlamydia psittaci*,2022-05-08,0
+*Chlamydia psittaci*,2022-05-15,0
+*Chlamydia psittaci*,2022-05-22,0
+*Chlamydia psittaci*,2022-05-29,0
+*Chlamydia psittaci*,2022-06-05,0
+*Chlamydia psittaci*,2022-06-12,0
+*Chlamydia psittaci*,2022-06-19,0
+*Chlamydia psittaci*,2022-06-26,0
+*Chlamydia psittaci*,2022-07-03,0
+*Chlamydia psittaci*,2022-07-10,0
+*Chlamydia psittaci*,2022-07-17,0
+*Chlamydia psittaci*,2022-07-24,0
+*Chlamydia psittaci*,2022-07-31,0
+*Chlamydia psittaci*,2022-08-07,0
+*Chlamydia psittaci*,2022-08-14,0
+*Chlamydia psittaci*,2022-08-21,0
+*Chlamydia psittaci*,2022-08-28,0
+*Chlamydia psittaci*,2022-09-04,0
+*Chlamydia psittaci*,2022-09-11,0
+*Chlamydia psittaci*,2022-09-18,0
+*Chlamydia psittaci*,2022-09-25,0
+*Chlamydia psittaci*,2022-10-02,0
+*Chlamydia psittaci*,2022-10-09,0
+*Chlamydia psittaci*,2022-10-16,0
+*Chlamydia psittaci*,2022-10-23,1
+*Chlamydia psittaci*,2022-10-30,0
+*Chlamydia psittaci*,2022-11-06,0
+*Chlamydia psittaci*,2022-11-13,0
+*Chlamydia psittaci*,2022-11-20,0
+*Chlamydia psittaci*,2022-11-27,0
+*Chlamydia psittaci*,2022-12-04,0
+*Chlamydia psittaci*,2022-12-11,0
+*Chlamydia psittaci*,2022-12-18,0
+*Chlamydia psittaci*,2022-12-25,1
+*Chlamydia psittaci*,2023-01-01,0
+*Chlamydia psittaci*,2023-01-08,0
+*Chlamydia psittaci*,2023-01-15,0
+*Chlamydia psittaci*,2023-01-22,0
+*Chlamydia psittaci*,2023-01-29,0
+*Chlamydia psittaci*,2023-02-05,0
+*Chlamydia psittaci*,2023-02-12,0
+*Chlamydia psittaci*,2023-02-19,0
+*Chlamydia psittaci*,2023-02-26,0
+*Chlamydia psittaci*,2023-03-05,1
+*Chlamydia psittaci*,2023-03-12,1
+*Chlamydia psittaci*,2023-03-19,0
+*Chlamydia psittaci*,2023-03-26,0
+*Chlamydia psittaci*,2023-04-02,0
+*Chlamydia psittaci*,2023-04-09,1
+*Chlamydia psittaci*,2023-04-16,0
+*Chlamydia psittaci*,2023-04-23,0
+*Chlamydia psittaci*,2023-04-30,0
+*Chlamydia psittaci*,2023-05-07,0
+*Chlamydia psittaci*,2023-05-14,0
+*Chlamydia psittaci*,2023-05-21,0
+*Chlamydia psittaci*,2023-05-28,0
+*Chlamydia psittaci*,2023-06-04,0
+*Chlamydia psittaci*,2023-06-11,1
+*Chlamydia psittaci*,2023-06-18,0
+*Chlamydia psittaci*,2023-06-25,1
+*Chlamydia psittaci*,2023-07-02,0
+*Chlamydia psittaci*,2023-07-09,0
+*Chlamydia psittaci*,2023-07-16,0
+*Chlamydia psittaci*,2023-07-23,0
+*Chlamydia psittaci*,2023-07-30,0
