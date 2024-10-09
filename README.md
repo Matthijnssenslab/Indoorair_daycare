@@ -4,9 +4,12 @@ This repository contains necessary input and script data for reproducing figures
 
 ```
 .
+├── README.md
 ├── input
 │   ├── csv_files
 │   └── input_phyloseq
+├── output
+│   └── PDF_postAI
 └── scripts_to_reproduce_figures
     ├── Figure 1
     ├── Figure 2
