@@ -9,11 +9,13 @@ This repository contains necessary input and script data for reproducing figures
 │   ├── csv_files
 │   └── input_phyloseq
 ├── output
-│   └── PDF_postAI
-└── scripts_to_reproduce_figures
+│   ├── PDF_figures
+│   └── Supplementary_docx
+└── scripts
     ├── Figure 1
     ├── Figure 2
     ├── Figure 3
     ├── Figure 4
     └── Figure 5
+
 ```
