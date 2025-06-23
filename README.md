@@ -43,20 +43,4 @@ For questions about the code or data, please open an issue on GitHub or contact:
 
 ## Acknowledgments
 Mustafa Karatas is supported by a Research Foundation Flanders (FWO) fundamental research scholarship (number: 11P7I24N). We would like to thank Pieter Wets and Steven Traets for their help in collection of samples. Additionally, we thank the Rotavirus National Reference Center and National Reference Center for Respiratory Pathogens for their support throughout this research.
-```
-.
-├── README.md
-├── input
-│   ├── csv_files
-│   └── input_phyloseq
-├── output
-│   ├── PDF_figures
-│   └── Supplementary_docx
-└── scripts
-    ├── Figure 1
-    ├── Figure 2
-    ├── Figure 3
-    ├── Figure 4
-    └── Figure 5
 
-```
